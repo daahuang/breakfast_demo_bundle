@@ -2,6 +2,8 @@
 myroot = '/home/deanh/Documents/MATLAB/Breakfast_dataset';
 path_bundle = fullfile(myroot, 'demo_bundle');
 
+feature_str = 'hist_dt_l2pn_c64';
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Path and variables ....
 % demo_bundle:
@@ -16,8 +18,8 @@ addpath(genpath(fullfile(path_bundle, 'matlab_htk')));
 % root folder with this script
 path_root = fullfile(path_bundle, 'demo_breakfast');
 % folder with the input data
-path_input = fullfile(myroot, 'hist_h3d_c30');
-
+% path_input = fullfile(myroot, 'hist_h3d_c30');
+path_input = fullfile(myroot, feature_str);
 cd(path_root);
 
 % folder to write temprorary files and output:
@@ -29,13 +31,13 @@ if isempty(dir(path_output))
 end
 
 % folder for hmms and temproary files:
-path_gen = fullfile(path_output, 'generated/hist_h3d_c30');
+path_gen = fullfile(path_output, 'generated', feature_str);
 if isempty(dir(path_gen))
     mkdir(path_gen);
 end
 
 % folder for textual output and results:
-path_out = fullfile(path_output, 'output/hist_h3d_c30');
+path_out = fullfile(path_output, 'output', feature_str);
 if isempty(dir(path_out))
     mkdir(path_out);
 end
