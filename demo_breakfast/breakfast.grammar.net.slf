@@ -1,0 +1,3688 @@
+VERSION=1.0
+N=1716 L=1970 
+I=0    W=SIL                 
+I=1    W=pour_sugar          
+I=2    W=!NULL               
+I=3    W=add_teabag          
+I=4    W=pour_water          
+I=5    W=take_cup            
+I=6    W=spoon_sugar         
+I=7    W=pour_water          
+I=8    W=add_teabag          
+I=9    W=take_cup            
+I=10   W=stir_tea            
+I=11   W=spoon_sugar         
+I=12   W=pour_water          
+I=13   W=add_teabag          
+I=14   W=stir_tea            
+I=15   W=spoon_sugar         
+I=16   W=pour_water          
+I=17   W=add_teabag          
+I=18   W=take_cup            
+I=19   W=add_teabag          
+I=20   W=pour_water          
+I=21   W=add_teabag          
+I=22   W=pour_water          
+I=23   W=take_cup            
+I=24   W=pour_water          
+I=25   W=add_teabag          
+I=26   W=pour_water          
+I=27   W=add_teabag          
+I=28   W=take_cup            
+I=29   W=put_egg2plate       
+I=30   W=take_plate          
+I=31   W=stirfry_egg         
+I=32   W=add_saltnpepper     
+I=33   W=crack_egg           
+I=34   W=crack_egg           
+I=35   W=butter_pan          
+I=36   W=butter_pan          
+I=37   W=take_eggs           
+I=38   W=put_egg2plate       
+I=39   W=take_plate          
+I=40   W=stirfry_egg         
+I=41   W=add_saltnpepper     
+I=42   W=stirfry_egg         
+I=43   W=add_saltnpepper     
+I=44   W=crack_egg           
+I=45   W=crack_egg           
+I=46   W=take_plate          
+I=47   W=stirfry_egg         
+I=48   W=pour_egg2pan        
+I=49   W=butter_pan          
+I=50   W=stir_egg            
+I=51   W=add_saltnpepper     
+I=52   W=stir_egg            
+I=53   W=crack_egg           
+I=54   W=put_egg2plate       
+I=55   W=take_plate          
+I=56   W=stirfry_egg         
+I=57   W=pour_egg2pan        
+I=58   W=stir_egg            
+I=59   W=butter_pan          
+I=60   W=add_saltnpepper     
+I=61   W=crack_egg           
+I=62   W=take_bowl           
+I=63   W=butter_pan          
+I=64   W=put_egg2plate       
+I=65   W=take_plate          
+I=66   W=stirfry_egg         
+I=67   W=add_saltnpepper     
+I=68   W=stirfry_egg         
+I=69   W=crack_egg           
+I=70   W=add_saltnpepper     
+I=71   W=butter_pan          
+I=72   W=put_egg2plate       
+I=73   W=stirfry_egg         
+I=74   W=pour_egg2pan        
+I=75   W=take_plate          
+I=76   W=butter_pan          
+I=77   W=stir_egg            
+I=78   W=add_saltnpepper     
+I=79   W=crack_egg           
+I=80   W=add_saltnpepper     
+I=81   W=stirfry_egg         
+I=82   W=add_saltnpepper     
+I=83   W=stirfry_egg         
+I=84   W=crack_egg           
+I=85   W=butter_pan          
+I=86   W=put_egg2plate       
+I=87   W=stirfry_egg         
+I=88   W=pour_egg2pan        
+I=89   W=butter_pan          
+I=90   W=add_saltnpepper     
+I=91   W=stir_egg            
+I=92   W=crack_egg           
+I=93   W=put_egg2plate       
+I=94   W=add_saltnpepper     
+I=95   W=add_saltnpepper     
+I=96   W=stirfry_egg         
+I=97   W=add_saltnpepper     
+I=98   W=crack_egg           
+I=99   W=take_plate          
+I=100  W=put_egg2plate       
+I=101  W=stirfry_egg         
+I=102  W=add_saltnpepper     
+I=103  W=stirfry_egg         
+I=104  W=crack_egg           
+I=105  W=butter_pan          
+I=106  W=put_egg2plate       
+I=107  W=take_plate          
+I=108  W=stirfry_egg         
+I=109  W=pour_egg2pan        
+I=110  W=stir_egg            
+I=111  W=add_saltnpepper     
+I=112  W=butter_pan          
+I=113  W=stir_egg            
+I=114  W=crack_egg           
+I=115  W=put_egg2plate       
+I=116  W=take_plate          
+I=117  W=stirfry_egg         
+I=118  W=pour_egg2pan        
+I=119  W=stir_egg            
+I=120  W=add_saltnpepper     
+I=121  W=crack_egg           
+I=122  W=put_egg2plate       
+I=123  W=take_plate          
+I=124  W=stirfry_egg         
+I=125  W=add_saltnpepper     
+I=126  W=crack_egg           
+I=127  W=butter_pan          
+I=128  W=put_egg2plate       
+I=129  W=stirfry_egg         
+I=130  W=add_saltnpepper     
+I=131  W=crack_egg           
+I=132  W=pour_oil            
+I=133  W=put_egg2plate       
+I=134  W=stirfry_egg         
+I=135  W=take_plate          
+I=136  W=stirfry_egg         
+I=137  W=pour_egg2pan        
+I=138  W=pour_oil            
+I=139  W=stir_egg            
+I=140  W=add_saltnpepper     
+I=141  W=crack_egg           
+I=142  W=put_egg2plate       
+I=143  W=stirfry_egg         
+I=144  W=add_saltnpepper     
+I=145  W=stirfry_egg         
+I=146  W=crack_egg           
+I=147  W=put_egg2plate       
+I=148  W=stirfry_egg         
+I=149  W=pour_egg2pan        
+I=150  W=stir_egg            
+I=151  W=butter_pan          
+I=152  W=stir_egg            
+I=153  W=add_saltnpepper     
+I=154  W=crack_egg           
+I=155  W=put_egg2plate       
+I=156  W=take_plate          
+I=157  W=stirfry_egg         
+I=158  W=add_saltnpepper     
+I=159  W=stirfry_egg         
+I=160  W=add_saltnpepper     
+I=161  W=stirfry_egg         
+I=162  W=crack_egg           
+I=163  W=butter_pan          
+I=164  W=put_egg2plate       
+I=165  W=take_plate          
+I=166  W=stirfry_egg         
+I=167  W=crack_egg           
+I=168  W=put_egg2plate       
+I=169  W=stirfry_egg         
+I=170  W=pour_egg2pan        
+I=171  W=pour_oil            
+I=172  W=stir_egg            
+I=173  W=add_saltnpepper     
+I=174  W=stir_egg            
+I=175  W=crack_egg           
+I=176  W=stirfry_egg         
+I=177  W=pour_egg2pan        
+I=178  W=stir_egg            
+I=179  W=crack_egg           
+I=180  W=put_egg2plate       
+I=181  W=take_plate          
+I=182  W=stirfry_egg         
+I=183  W=add_saltnpepper     
+I=184  W=pour_egg2pan        
+I=185  W=pour_oil            
+I=186  W=stir_egg            
+I=187  W=crack_egg           
+I=188  W=take_bowl           
+I=189  W=put_egg2plate       
+I=190  W=take_plate          
+I=191  W=stirfry_egg         
+I=192  W=add_saltnpepper     
+I=193  W=stirfry_egg         
+I=194  W=crack_egg           
+I=195  W=pour_oil            
+I=196  W=put_egg2plate       
+I=197  W=take_plate          
+I=198  W=stirfry_egg         
+I=199  W=add_saltnpepper     
+I=200  W=stirfry_egg         
+I=201  W=crack_egg           
+I=202  W=butter_pan          
+I=203  W=put_egg2plate       
+I=204  W=take_plate          
+I=205  W=add_saltnpepper     
+I=206  W=stirfry_egg         
+I=207  W=crack_egg           
+I=208  W=butter_pan          
+I=209  W=put_egg2plate       
+I=210  W=take_plate          
+I=211  W=stirfry_egg         
+I=212  W=pour_egg2pan        
+I=213  W=pour_oil            
+I=214  W=stir_egg            
+I=215  W=add_saltnpepper     
+I=216  W=crack_egg           
+I=217  W=put_egg2plate       
+I=218  W=take_plate          
+I=219  W=stirfry_egg         
+I=220  W=pour_egg2pan        
+I=221  W=stir_egg            
+I=222  W=pour_oil            
+I=223  W=stir_egg            
+I=224  W=add_saltnpepper     
+I=225  W=stir_egg            
+I=226  W=crack_egg           
+I=227  W=crack_egg           
+I=228  W=put_egg2plate       
+I=229  W=take_plate          
+I=230  W=stirfry_egg         
+I=231  W=crack_egg           
+I=232  W=pour_oil            
+I=233  W=put_egg2plate       
+I=234  W=stirfry_egg         
+I=235  W=add_saltnpepper     
+I=236  W=stirfry_egg         
+I=237  W=crack_egg           
+I=238  W=pour_oil            
+I=239  W=put_egg2plate       
+I=240  W=take_plate          
+I=241  W=stirfry_egg         
+I=242  W=pour_egg2pan        
+I=243  W=stir_egg            
+I=244  W=add_saltnpepper     
+I=245  W=crack_egg           
+I=246  W=butter_pan          
+I=247  W=put_egg2plate       
+I=248  W=stirfry_egg         
+I=249  W=take_plate          
+I=250  W=pour_egg2pan        
+I=251  W=butter_pan          
+I=252  W=stir_egg            
+I=253  W=add_saltnpepper     
+I=254  W=crack_egg           
+I=255  W=crack_egg           
+I=256  W=put_egg2plate       
+I=257  W=take_plate          
+I=258  W=stirfry_egg         
+I=259  W=add_saltnpepper     
+I=260  W=crack_egg           
+I=261  W=put_egg2plate       
+I=262  W=stirfry_egg         
+I=263  W=pour_egg2pan        
+I=264  W=stir_egg            
+I=265  W=crack_egg           
+I=266  W=pour_oil            
+I=267  W=put_egg2plate       
+I=268  W=stirfry_egg         
+I=269  W=pour_egg2pan        
+I=270  W=pour_oil            
+I=271  W=stir_egg            
+I=272  W=add_saltnpepper     
+I=273  W=crack_egg           
+I=274  W=put_egg2plate       
+I=275  W=take_plate          
+I=276  W=stirfry_egg         
+I=277  W=pour_egg2pan        
+I=278  W=stir_egg            
+I=279  W=add_saltnpepper     
+I=280  W=crack_egg           
+I=281  W=butter_pan          
+I=282  W=take_bowl           
+I=283  W=put_egg2plate       
+I=284  W=add_saltnpepper     
+I=285  W=stirfry_egg         
+I=286  W=crack_egg           
+I=287  W=put_egg2plate       
+I=288  W=take_plate          
+I=289  W=stirfry_egg         
+I=290  W=pour_egg2pan        
+I=291  W=stir_egg            
+I=292  W=add_saltnpepper     
+I=293  W=crack_egg           
+I=294  W=pour_oil            
+I=295  W=put_egg2plate       
+I=296  W=take_plate          
+I=297  W=stirfry_egg         
+I=298  W=add_saltnpepper     
+I=299  W=stirfry_egg         
+I=300  W=pour_egg2pan        
+I=301  W=stir_egg            
+I=302  W=crack_egg           
+I=303  W=pour_oil            
+I=304  W=put_bunTogether     
+I=305  W=put_toppingOnTop    
+I=306  W=smear_butter        
+I=307  W=cut_bun             
+I=308  W=take_plate          
+I=309  W=put_toppingOnTop    
+I=310  W=smear_butter        
+I=311  W=cut_bun             
+I=312  W=take_plate          
+I=313  W=put_toppingOnTop    
+I=314  W=smear_butter        
+I=315  W=take_knife          
+I=316  W=cut_bun             
+I=317  W=put_bunTogether     
+I=318  W=put_toppingOnTop    
+I=319  W=smear_butter        
+I=320  W=take_knife          
+I=321  W=cut_bun             
+I=322  W=put_toppingOnTop    
+I=323  W=smear_butter        
+I=324  W=take_plate          
+I=325  W=cut_bun             
+I=326  W=put_toppingOnTop    
+I=327  W=smear_butter        
+I=328  W=take_butter         
+I=329  W=cut_bun             
+I=330  W=put_bunTogether     
+I=331  W=put_toppingOnTop    
+I=332  W=take_topping        
+I=333  W=smear_butter        
+I=334  W=take_butter         
+I=335  W=cut_bun             
+I=336  W=put_bunTogether     
+I=337  W=put_toppingOnTop    
+I=338  W=smear_butter        
+I=339  W=cut_bun             
+I=340  W=put_toppingOnTop    
+I=341  W=smear_butter        
+I=342  W=cut_bun             
+I=343  W=take_plate          
+I=344  W=take_knife          
+I=345  W=put_toppingOnTop    
+I=346  W=smear_butter        
+I=347  W=take_butter         
+I=348  W=cut_bun             
+I=349  W=take_knife          
+I=350  W=put_toppingOnTop    
+I=351  W=smear_butter        
+I=352  W=put_bunTogether     
+I=353  W=put_toppingOnTop    
+I=354  W=cut_bun             
+I=355  W=put_bunTogether     
+I=356  W=put_toppingOnTop    
+I=357  W=take_topping        
+I=358  W=smear_butter        
+I=359  W=cut_bun             
+I=360  W=put_toppingOnTop    
+I=361  W=smear_butter        
+I=362  W=cut_bun             
+I=363  W=put_toppingOnTop    
+I=364  W=take_topping        
+I=365  W=smear_butter        
+I=366  W=cut_bun             
+I=367  W=put_toppingOnTop    
+I=368  W=smear_butter        
+I=369  W=put_toppingOnTop    
+I=370  W=smear_butter        
+I=371  W=cut_bun             
+I=372  W=take_plate          
+I=373  W=put_bunTogether     
+I=374  W=put_toppingOnTop    
+I=375  W=take_topping        
+I=376  W=smear_butter        
+I=377  W=take_knife          
+I=378  W=cut_bun             
+I=379  W=take_plate          
+I=380  W=put_toppingOnTop    
+I=381  W=smear_butter        
+I=382  W=put_toppingOnTop    
+I=383  W=smear_butter        
+I=384  W=take_topping        
+I=385  W=cut_bun             
+I=386  W=put_toppingOnTop    
+I=387  W=smear_butter        
+I=388  W=cut_bun             
+I=389  W=take_topping        
+I=390  W=take_knife          
+I=391  W=put_bunTogether     
+I=392  W=put_toppingOnTop    
+I=393  W=take_topping        
+I=394  W=cut_bun             
+I=395  W=put_toppingOnTop    
+I=396  W=smear_butter        
+I=397  W=cut_bun             
+I=398  W=take_plate          
+I=399  W=take_knife          
+I=400  W=take_topping        
+I=401  W=take_knife          
+I=402  W=put_bunTogether     
+I=403  W=put_toppingOnTop    
+I=404  W=smear_butter        
+I=405  W=take_topping        
+I=406  W=cut_bun             
+I=407  W=put_bunTogether     
+I=408  W=put_toppingOnTop    
+I=409  W=smear_butter        
+I=410  W=take_topping        
+I=411  W=cut_bun             
+I=412  W=take_knife          
+I=413  W=take_plate          
+I=414  W=put_bunTogether     
+I=415  W=put_toppingOnTop    
+I=416  W=smear_butter        
+I=417  W=cut_bun             
+I=418  W=take_knife          
+I=419  W=put_toppingOnTop    
+I=420  W=take_topping        
+I=421  W=put_toppingOnTop    
+I=422  W=take_topping        
+I=423  W=smear_butter        
+I=424  W=take_butter         
+I=425  W=cut_bun             
+I=426  W=take_knife          
+I=427  W=put_fruit2bowl      
+I=428  W=cut_fruit           
+I=429  W=peel_fruit          
+I=430  W=put_fruit2bowl      
+I=431  W=peel_fruit          
+I=432  W=put_fruit2bowl      
+I=433  W=peel_fruit          
+I=434  W=put_fruit2bowl      
+I=435  W=peel_fruit          
+I=436  W=cut_fruit           
+I=437  W=put_fruit2bowl      
+I=438  W=take_bowl           
+I=439  W=cut_fruit           
+I=440  W=peel_fruit          
+I=441  W=put_fruit2bowl      
+I=442  W=cut_fruit           
+I=443  W=put_fruit2bowl      
+I=444  W=cut_fruit           
+I=445  W=peel_fruit          
+I=446  W=put_fruit2bowl      
+I=447  W=cut_fruit           
+I=448  W=put_fruit2bowl      
+I=449  W=cut_fruit           
+I=450  W=put_fruit2bowl      
+I=451  W=cut_fruit           
+I=452  W=peel_fruit          
+I=453  W=put_fruit2bowl      
+I=454  W=peel_fruit          
+I=455  W=cut_fruit           
+I=456  W=put_fruit2bowl      
+I=457  W=cut_fruit           
+I=458  W=take_bowl           
+I=459  W=put_fruit2bowl      
+I=460  W=cut_fruit           
+I=461  W=peel_fruit          
+I=462  W=cut_fruit           
+I=463  W=put_fruit2bowl      
+I=464  W=take_bowl           
+I=465  W=cut_fruit           
+I=466  W=take_plate          
+I=467  W=take_knife          
+I=468  W=stir_fruit          
+I=469  W=put_fruit2bowl      
+I=470  W=cut_fruit           
+I=471  W=peel_fruit          
+I=472  W=cut_fruit           
+I=473  W=peel_fruit          
+I=474  W=cut_fruit           
+I=475  W=put_fruit2bowl      
+I=476  W=cut_fruit           
+I=477  W=peel_fruit          
+I=478  W=take_bowl           
+I=479  W=put_fruit2bowl      
+I=480  W=cut_fruit           
+I=481  W=peel_fruit          
+I=482  W=cut_fruit           
+I=483  W=put_fruit2bowl      
+I=484  W=cut_fruit           
+I=485  W=take_bowl           
+I=486  W=take_plate          
+I=487  W=stir_fruit          
+I=488  W=put_fruit2bowl      
+I=489  W=cut_fruit           
+I=490  W=put_fruit2bowl      
+I=491  W=cut_fruit           
+I=492  W=put_fruit2bowl      
+I=493  W=cut_fruit           
+I=494  W=put_fruit2bowl      
+I=495  W=cut_fruit           
+I=496  W=put_fruit2bowl      
+I=497  W=cut_fruit           
+I=498  W=put_fruit2bowl      
+I=499  W=cut_fruit           
+I=500  W=peel_fruit          
+I=501  W=cut_fruit           
+I=502  W=take_bowl           
+I=503  W=take_plate          
+I=504  W=cut_fruit           
+I=505  W=peel_fruit          
+I=506  W=cut_fruit           
+I=507  W=cut_fruit           
+I=508  W=take_plate          
+I=509  W=cut_fruit           
+I=510  W=peel_fruit          
+I=511  W=cut_fruit           
+I=512  W=take_knife          
+I=513  W=take_plate          
+I=514  W=take_plate          
+I=515  W=put_fruit2bowl      
+I=516  W=cut_fruit           
+I=517  W=peel_fruit          
+I=518  W=cut_fruit           
+I=519  W=put_fruit2bowl      
+I=520  W=take_bowl           
+I=521  W=cut_fruit           
+I=522  W=take_plate          
+I=523  W=put_fruit2bowl      
+I=524  W=take_bowl           
+I=525  W=cut_fruit           
+I=526  W=peel_fruit          
+I=527  W=take_plate          
+I=528  W=stir_fruit          
+I=529  W=put_fruit2bowl      
+I=530  W=cut_fruit           
+I=531  W=put_fruit2bowl      
+I=532  W=cut_fruit           
+I=533  W=peel_fruit          
+I=534  W=take_plate          
+I=535  W=put_fruit2bowl      
+I=536  W=cut_fruit           
+I=537  W=peel_fruit          
+I=538  W=put_fruit2bowl      
+I=539  W=take_bowl           
+I=540  W=cut_fruit           
+I=541  W=take_plate          
+I=542  W=put_fruit2bowl      
+I=543  W=cut_fruit           
+I=544  W=peel_fruit          
+I=545  W=cut_fruit           
+I=546  W=put_fruit2bowl      
+I=547  W=take_bowl           
+I=548  W=cut_fruit           
+I=549  W=put_fruit2bowl      
+I=550  W=cut_fruit           
+I=551  W=put_fruit2bowl      
+I=552  W=cut_fruit           
+I=553  W=put_fruit2bowl      
+I=554  W=cut_fruit           
+I=555  W=put_fruit2bowl      
+I=556  W=cut_fruit           
+I=557  W=peel_fruit          
+I=558  W=put_fruit2bowl      
+I=559  W=cut_fruit           
+I=560  W=peel_fruit          
+I=561  W=put_fruit2bowl      
+I=562  W=cut_fruit           
+I=563  W=stir_fruit          
+I=564  W=put_fruit2bowl      
+I=565  W=cut_fruit           
+I=566  W=peel_fruit          
+I=567  W=put_fruit2bowl      
+I=568  W=cut_fruit           
+I=569  W=put_fruit2bowl      
+I=570  W=cut_fruit           
+I=571  W=stir_fruit          
+I=572  W=put_fruit2bowl      
+I=573  W=cut_fruit           
+I=574  W=cut_fruit           
+I=575  W=put_fruit2bowl      
+I=576  W=cut_fruit           
+I=577  W=cut_fruit           
+I=578  W=peel_fruit          
+I=579  W=cut_fruit           
+I=580  W=peel_fruit          
+I=581  W=cut_fruit           
+I=582  W=peel_fruit          
+I=583  W=cut_fruit           
+I=584  W=peel_fruit          
+I=585  W=cut_fruit           
+I=586  W=put_fruit2bowl      
+I=587  W=cut_fruit           
+I=588  W=put_fruit2bowl      
+I=589  W=cut_fruit           
+I=590  W=put_fruit2bowl      
+I=591  W=cut_fruit           
+I=592  W=put_fruit2bowl      
+I=593  W=cut_fruit           
+I=594  W=put_fruit2bowl      
+I=595  W=cut_fruit           
+I=596  W=put_fruit2bowl      
+I=597  W=cut_fruit           
+I=598  W=put_fruit2bowl      
+I=599  W=cut_fruit           
+I=600  W=peel_fruit          
+I=601  W=put_fruit2bowl      
+I=602  W=cut_fruit           
+I=603  W=peel_fruit          
+I=604  W=put_fruit2bowl      
+I=605  W=cut_fruit           
+I=606  W=peel_fruit          
+I=607  W=put_fruit2bowl      
+I=608  W=peel_fruit          
+I=609  W=put_fruit2bowl      
+I=610  W=cut_fruit           
+I=611  W=peel_fruit          
+I=612  W=put_fruit2bowl      
+I=613  W=cut_fruit           
+I=614  W=peel_fruit          
+I=615  W=put_fruit2bowl      
+I=616  W=cut_fruit           
+I=617  W=peel_fruit          
+I=618  W=put_fruit2bowl      
+I=619  W=cut_fruit           
+I=620  W=peel_fruit          
+I=621  W=cut_fruit           
+I=622  W=peel_fruit          
+I=623  W=cut_fruit           
+I=624  W=peel_fruit          
+I=625  W=put_fruit2bowl      
+I=626  W=cut_fruit           
+I=627  W=peel_fruit          
+I=628  W=put_fruit2bowl      
+I=629  W=cut_fruit           
+I=630  W=peel_fruit          
+I=631  W=cut_fruit           
+I=632  W=peel_fruit          
+I=633  W=put_fruit2bowl      
+I=634  W=cut_fruit           
+I=635  W=peel_fruit          
+I=636  W=cut_fruit           
+I=637  W=put_fruit2bowl      
+I=638  W=cut_fruit           
+I=639  W=peel_fruit          
+I=640  W=cut_fruit           
+I=641  W=stir_fruit          
+I=642  W=put_fruit2bowl      
+I=643  W=cut_fruit           
+I=644  W=put_fruit2bowl      
+I=645  W=cut_fruit           
+I=646  W=put_fruit2bowl      
+I=647  W=cut_fruit           
+I=648  W=peel_fruit          
+I=649  W=cut_fruit           
+I=650  W=put_fruit2bowl      
+I=651  W=cut_fruit           
+I=652  W=put_fruit2bowl      
+I=653  W=cut_fruit           
+I=654  W=peel_fruit          
+I=655  W=cut_fruit           
+I=656  W=peel_fruit          
+I=657  W=put_fruit2bowl      
+I=658  W=cut_fruit           
+I=659  W=put_fruit2bowl      
+I=660  W=cut_fruit           
+I=661  W=put_fruit2bowl      
+I=662  W=cut_fruit           
+I=663  W=peel_fruit          
+I=664  W=cut_fruit           
+I=665  W=put_fruit2bowl      
+I=666  W=cut_fruit           
+I=667  W=peel_fruit          
+I=668  W=cut_fruit           
+I=669  W=put_fruit2bowl      
+I=670  W=cut_fruit           
+I=671  W=put_fruit2bowl      
+I=672  W=cut_fruit           
+I=673  W=put_fruit2bowl      
+I=674  W=cut_fruit           
+I=675  W=stir_fruit          
+I=676  W=put_fruit2bowl      
+I=677  W=take_bowl           
+I=678  W=cut_fruit           
+I=679  W=peel_fruit          
+I=680  W=cut_fruit           
+I=681  W=take_plate          
+I=682  W=stir_fruit          
+I=683  W=put_fruit2bowl      
+I=684  W=cut_fruit           
+I=685  W=put_fruit2bowl      
+I=686  W=cut_fruit           
+I=687  W=put_fruit2bowl      
+I=688  W=take_bowl           
+I=689  W=cut_fruit           
+I=690  W=put_fruit2bowl      
+I=691  W=take_bowl           
+I=692  W=cut_fruit           
+I=693  W=peel_fruit          
+I=694  W=cut_fruit           
+I=695  W=peel_fruit          
+I=696  W=cut_fruit           
+I=697  W=put_fruit2bowl      
+I=698  W=take_bowl           
+I=699  W=cut_fruit           
+I=700  W=cut_fruit           
+I=701  W=put_fruit2bowl      
+I=702  W=cut_fruit           
+I=703  W=peel_fruit          
+I=704  W=take_knife          
+I=705  W=put_fruit2bowl      
+I=706  W=cut_fruit           
+I=707  W=put_fruit2bowl      
+I=708  W=cut_fruit           
+I=709  W=put_fruit2bowl      
+I=710  W=cut_fruit           
+I=711  W=put_fruit2bowl      
+I=712  W=cut_fruit           
+I=713  W=put_fruit2bowl      
+I=714  W=cut_fruit           
+I=715  W=peel_fruit          
+I=716  W=put_fruit2bowl      
+I=717  W=cut_fruit           
+I=718  W=peel_fruit          
+I=719  W=put_fruit2bowl      
+I=720  W=cut_fruit           
+I=721  W=peel_fruit          
+I=722  W=put_fruit2bowl      
+I=723  W=cut_fruit           
+I=724  W=peel_fruit          
+I=725  W=put_fruit2bowl      
+I=726  W=cut_fruit           
+I=727  W=peel_fruit          
+I=728  W=put_fruit2bowl      
+I=729  W=cut_fruit           
+I=730  W=put_fruit2bowl      
+I=731  W=cut_fruit           
+I=732  W=put_fruit2bowl      
+I=733  W=cut_fruit           
+I=734  W=put_fruit2bowl      
+I=735  W=cut_fruit           
+I=736  W=peel_fruit          
+I=737  W=put_fruit2bowl      
+I=738  W=cut_fruit           
+I=739  W=put_fruit2bowl      
+I=740  W=cut_fruit           
+I=741  W=put_fruit2bowl      
+I=742  W=cut_fruit           
+I=743  W=take_knife          
+I=744  W=peel_fruit          
+I=745  W=cut_fruit           
+I=746  W=put_fruit2bowl      
+I=747  W=cut_fruit           
+I=748  W=put_fruit2bowl      
+I=749  W=cut_fruit           
+I=750  W=put_fruit2bowl      
+I=751  W=cut_fruit           
+I=752  W=take_bowl           
+I=753  W=peel_fruit          
+I=754  W=put_fruit2bowl      
+I=755  W=cut_fruit           
+I=756  W=put_fruit2bowl      
+I=757  W=cut_fruit           
+I=758  W=peel_fruit          
+I=759  W=cut_fruit           
+I=760  W=put_fruit2bowl      
+I=761  W=cut_fruit           
+I=762  W=put_fruit2bowl      
+I=763  W=cut_fruit           
+I=764  W=put_fruit2bowl      
+I=765  W=cut_fruit           
+I=766  W=put_fruit2bowl      
+I=767  W=cut_fruit           
+I=768  W=peel_fruit          
+I=769  W=take_knife          
+I=770  W=put_fruit2bowl      
+I=771  W=cut_fruit           
+I=772  W=put_fruit2bowl      
+I=773  W=cut_fruit           
+I=774  W=put_fruit2bowl      
+I=775  W=cut_fruit           
+I=776  W=put_fruit2bowl      
+I=777  W=cut_fruit           
+I=778  W=put_fruit2bowl      
+I=779  W=cut_fruit           
+I=780  W=take_bowl           
+I=781  W=stir_fruit          
+I=782  W=put_fruit2bowl      
+I=783  W=cut_fruit           
+I=784  W=peel_fruit          
+I=785  W=put_fruit2bowl      
+I=786  W=cut_fruit           
+I=787  W=put_fruit2bowl      
+I=788  W=cut_fruit           
+I=789  W=put_fruit2bowl      
+I=790  W=cut_fruit           
+I=791  W=put_fruit2bowl      
+I=792  W=cut_fruit           
+I=793  W=put_fruit2bowl      
+I=794  W=cut_fruit           
+I=795  W=peel_fruit          
+I=796  W=take_bowl           
+I=797  W=stir_fruit          
+I=798  W=put_fruit2bowl      
+I=799  W=cut_fruit           
+I=800  W=put_fruit2bowl      
+I=801  W=cut_fruit           
+I=802  W=put_fruit2bowl      
+I=803  W=cut_fruit           
+I=804  W=put_fruit2bowl      
+I=805  W=cut_fruit           
+I=806  W=put_fruit2bowl      
+I=807  W=cut_fruit           
+I=808  W=peel_fruit          
+I=809  W=take_bowl           
+I=810  W=put_fruit2bowl      
+I=811  W=cut_fruit           
+I=812  W=put_fruit2bowl      
+I=813  W=cut_fruit           
+I=814  W=peel_fruit          
+I=815  W=put_fruit2bowl      
+I=816  W=cut_fruit           
+I=817  W=put_fruit2bowl      
+I=818  W=cut_fruit           
+I=819  W=put_fruit2bowl      
+I=820  W=cut_fruit           
+I=821  W=put_fruit2bowl      
+I=822  W=cut_fruit           
+I=823  W=peel_fruit          
+I=824  W=take_knife          
+I=825  W=take_bowl           
+I=826  W=cut_fruit           
+I=827  W=peel_fruit          
+I=828  W=cut_fruit           
+I=829  W=peel_fruit          
+I=830  W=take_plate          
+I=831  W=put_fruit2bowl      
+I=832  W=cut_fruit           
+I=833  W=put_fruit2bowl      
+I=834  W=cut_fruit           
+I=835  W=put_fruit2bowl      
+I=836  W=cut_fruit           
+I=837  W=take_bowl           
+I=838  W=peel_fruit          
+I=839  W=take_knife          
+I=840  W=take_plate          
+I=841  W=put_fruit2bowl      
+I=842  W=cut_fruit           
+I=843  W=peel_fruit          
+I=844  W=cut_fruit           
+I=845  W=put_fruit2bowl      
+I=846  W=cut_fruit           
+I=847  W=peel_fruit          
+I=848  W=put_fruit2bowl      
+I=849  W=cut_fruit           
+I=850  W=stir_fruit          
+I=851  W=put_fruit2bowl      
+I=852  W=cut_fruit           
+I=853  W=peel_fruit          
+I=854  W=cut_fruit           
+I=855  W=put_fruit2bowl      
+I=856  W=cut_fruit           
+I=857  W=take_bowl           
+I=858  W=cut_fruit           
+I=859  W=take_knife          
+I=860  W=put_pancake2plate   
+I=861  W=fry_pancake         
+I=862  W=take_plate          
+I=863  W=pour_dough2pan      
+I=864  W=stir_dough          
+I=865  W=butter_pan          
+I=866  W=stir_dough          
+I=867  W=pour_milk           
+I=868  W=spoon_flour         
+I=869  W=crack_egg           
+I=870  W=put_pancake2plate   
+I=871  W=take_plate          
+I=872  W=fry_pancake         
+I=873  W=pour_dough2pan      
+I=874  W=stir_dough          
+I=875  W=butter_pan          
+I=876  W=pour_milk           
+I=877  W=crack_egg           
+I=878  W=spoon_flour         
+I=879  W=pour_dough2pan      
+I=880  W=stir_dough          
+I=881  W=pour_milk           
+I=882  W=stir_dough          
+I=883  W=spoon_flour         
+I=884  W=butter_pan          
+I=885  W=crack_egg           
+I=886  W=put_pancake2plate   
+I=887  W=take_plate          
+I=888  W=fry_pancake         
+I=889  W=pour_dough2pan      
+I=890  W=stir_dough          
+I=891  W=stir_dough          
+I=892  W=butter_pan          
+I=893  W=pour_milk           
+I=894  W=spoon_flour         
+I=895  W=crack_egg           
+I=896  W=put_pancake2plate   
+I=897  W=fry_pancake         
+I=898  W=take_plate          
+I=899  W=fry_pancake         
+I=900  W=pour_dough2pan      
+I=901  W=stir_dough          
+I=902  W=pour_milk           
+I=903  W=stir_dough          
+I=904  W=spoon_flour         
+I=905  W=crack_egg           
+I=906  W=put_pancake2plate   
+I=907  W=fry_pancake         
+I=908  W=take_plate          
+I=909  W=fry_pancake         
+I=910  W=pour_dough2pan      
+I=911  W=stir_dough          
+I=912  W=butter_pan          
+I=913  W=stir_dough          
+I=914  W=pour_milk           
+I=915  W=crack_egg           
+I=916  W=spoon_flour         
+I=917  W=put_pancake2plate   
+I=918  W=take_plate          
+I=919  W=fry_pancake         
+I=920  W=pour_dough2pan      
+I=921  W=stir_dough          
+I=922  W=pour_milk           
+I=923  W=spoon_flour         
+I=924  W=crack_egg           
+I=925  W=put_pancake2plate   
+I=926  W=fry_pancake         
+I=927  W=take_plate          
+I=928  W=pour_dough2pan      
+I=929  W=stir_dough          
+I=930  W=stir_dough          
+I=931  W=pour_milk           
+I=932  W=spoon_flour         
+I=933  W=crack_egg           
+I=934  W=put_pancake2plate   
+I=935  W=fry_pancake         
+I=936  W=pour_dough2pan      
+I=937  W=butter_pan          
+I=938  W=stir_dough          
+I=939  W=pour_milk           
+I=940  W=stir_dough          
+I=941  W=spoon_flour         
+I=942  W=stir_dough          
+I=943  W=crack_egg           
+I=944  W=fry_pancake         
+I=945  W=pour_dough2pan      
+I=946  W=butter_pan          
+I=947  W=stir_dough          
+I=948  W=pour_milk           
+I=949  W=crack_egg           
+I=950  W=spoon_flour         
+I=951  W=take_bowl           
+I=952  W=fry_pancake         
+I=953  W=pour_dough2pan      
+I=954  W=butter_pan          
+I=955  W=stir_dough          
+I=956  W=crack_egg           
+I=957  W=pour_milk           
+I=958  W=spoon_flour         
+I=959  W=take_bowl           
+I=960  W=take_plate          
+I=961  W=fry_pancake         
+I=962  W=pour_dough2pan      
+I=963  W=butter_pan          
+I=964  W=stir_dough          
+I=965  W=pour_milk           
+I=966  W=stir_dough          
+I=967  W=pour_milk           
+I=968  W=spoon_flour         
+I=969  W=crack_egg           
+I=970  W=fry_pancake         
+I=971  W=pour_dough2pan      
+I=972  W=stir_dough          
+I=973  W=pour_milk           
+I=974  W=spoon_flour         
+I=975  W=crack_egg           
+I=976  W=put_pancake2plate   
+I=977  W=take_plate          
+I=978  W=fry_pancake         
+I=979  W=pour_dough2pan      
+I=980  W=butter_pan          
+I=981  W=stir_dough          
+I=982  W=crack_egg           
+I=983  W=pour_milk           
+I=984  W=spoon_flour         
+I=985  W=put_pancake2plate   
+I=986  W=take_plate          
+I=987  W=fry_pancake         
+I=988  W=pour_oil            
+I=989  W=fry_pancake         
+I=990  W=pour_dough2pan      
+I=991  W=stir_dough          
+I=992  W=pour_oil            
+I=993  W=stir_dough          
+I=994  W=pour_milk           
+I=995  W=stir_dough          
+I=996  W=pour_milk           
+I=997  W=stir_dough          
+I=998  W=spoon_flour         
+I=999  W=pour_milk           
+I=1000 W=crack_egg           
+I=1001 W=fry_pancake         
+I=1002 W=pour_dough2pan      
+I=1003 W=pour_oil            
+I=1004 W=stir_dough          
+I=1005 W=pour_milk           
+I=1006 W=spoon_flour         
+I=1007 W=crack_egg           
+I=1008 W=fry_pancake         
+I=1009 W=pour_dough2pan      
+I=1010 W=pour_oil            
+I=1011 W=stir_dough          
+I=1012 W=pour_milk           
+I=1013 W=crack_egg           
+I=1014 W=spoon_flour         
+I=1015 W=put_pancake2plate   
+I=1016 W=fry_pancake         
+I=1017 W=pour_dough2pan      
+I=1018 W=pour_oil            
+I=1019 W=stir_dough          
+I=1020 W=pour_milk           
+I=1021 W=pour_flour          
+I=1022 W=crack_egg           
+I=1023 W=put_pancake2plate   
+I=1024 W=fry_pancake         
+I=1025 W=pour_dough2pan      
+I=1026 W=butter_pan          
+I=1027 W=stir_dough          
+I=1028 W=pour_milk           
+I=1029 W=crack_egg           
+I=1030 W=spoon_flour         
+I=1031 W=put_pancake2plate   
+I=1032 W=take_plate          
+I=1033 W=fry_pancake         
+I=1034 W=pour_dough2pan      
+I=1035 W=butter_pan          
+I=1036 W=stir_dough          
+I=1037 W=pour_milk           
+I=1038 W=butter_pan          
+I=1039 W=spoon_flour         
+I=1040 W=crack_egg           
+I=1041 W=put_pancake2plate   
+I=1042 W=fry_pancake         
+I=1043 W=put_pancake2plate   
+I=1044 W=take_plate          
+I=1045 W=fry_pancake         
+I=1046 W=pour_dough2pan      
+I=1047 W=stir_dough          
+I=1048 W=pour_milk           
+I=1049 W=stir_dough          
+I=1050 W=butter_pan          
+I=1051 W=stir_dough          
+I=1052 W=pour_milk           
+I=1053 W=spoon_flour         
+I=1054 W=crack_egg           
+I=1055 W=put_pancake2plate   
+I=1056 W=take_plate          
+I=1057 W=fry_pancake         
+I=1058 W=pour_dough2pan      
+I=1059 W=butter_pan          
+I=1060 W=stir_dough          
+I=1061 W=pour_milk           
+I=1062 W=spoon_flour         
+I=1063 W=crack_egg           
+I=1064 W=put_pancake2plate   
+I=1065 W=fry_pancake         
+I=1066 W=pour_dough2pan      
+I=1067 W=pour_oil            
+I=1068 W=stir_dough          
+I=1069 W=pour_flour          
+I=1070 W=pour_milk           
+I=1071 W=crack_egg           
+I=1072 W=put_pancake2plate   
+I=1073 W=fry_pancake         
+I=1074 W=take_plate          
+I=1075 W=fry_pancake         
+I=1076 W=pour_dough2pan      
+I=1077 W=stir_dough          
+I=1078 W=pour_flour          
+I=1079 W=stir_dough          
+I=1080 W=pour_flour          
+I=1081 W=stir_dough          
+I=1082 W=pour_milk           
+I=1083 W=crack_egg           
+I=1084 W=put_pancake2plate   
+I=1085 W=take_plate          
+I=1086 W=fry_pancake         
+I=1087 W=pour_dough2pan      
+I=1088 W=pour_oil            
+I=1089 W=stir_dough          
+I=1090 W=pour_milk           
+I=1091 W=stir_dough          
+I=1092 W=pour_milk           
+I=1093 W=spoon_flour         
+I=1094 W=crack_egg           
+I=1095 W=put_pancake2plate   
+I=1096 W=take_plate          
+I=1097 W=fry_pancake         
+I=1098 W=pour_dough2pan      
+I=1099 W=pour_oil            
+I=1100 W=stir_dough          
+I=1101 W=pour_milk           
+I=1102 W=spoon_flour         
+I=1103 W=crack_egg           
+I=1104 W=take_eggs           
+I=1105 W=take_bowl           
+I=1106 W=put_pancake2plate   
+I=1107 W=take_plate          
+I=1108 W=fry_pancake         
+I=1109 W=pour_dough2pan      
+I=1110 W=pour_oil            
+I=1111 W=stir_dough          
+I=1112 W=pour_milk           
+I=1113 W=crack_egg           
+I=1114 W=spoon_flour         
+I=1115 W=put_pancake2plate   
+I=1116 W=fry_pancake         
+I=1117 W=take_plate          
+I=1118 W=fry_pancake         
+I=1119 W=pour_dough2pan      
+I=1120 W=butter_pan          
+I=1121 W=stir_dough          
+I=1122 W=spoon_flour         
+I=1123 W=stir_dough          
+I=1124 W=pour_milk           
+I=1125 W=crack_egg           
+I=1126 W=spoon_flour         
+I=1127 W=put_pancake2plate   
+I=1128 W=take_plate          
+I=1129 W=fry_pancake         
+I=1130 W=pour_dough2pan      
+I=1131 W=stir_dough          
+I=1132 W=butter_pan          
+I=1133 W=pour_milk           
+I=1134 W=spoon_flour         
+I=1135 W=crack_egg           
+I=1136 W=take_bowl           
+I=1137 W=put_pancake2plate   
+I=1138 W=take_plate          
+I=1139 W=fry_pancake         
+I=1140 W=pour_dough2pan      
+I=1141 W=pour_oil            
+I=1142 W=stir_dough          
+I=1143 W=pour_milk           
+I=1144 W=spoon_flour         
+I=1145 W=crack_egg           
+I=1146 W=put_pancake2plate   
+I=1147 W=take_plate          
+I=1148 W=fry_pancake         
+I=1149 W=pour_dough2pan      
+I=1150 W=stir_dough          
+I=1151 W=spoon_flour         
+I=1152 W=stir_dough          
+I=1153 W=pour_milk           
+I=1154 W=spoon_flour         
+I=1155 W=crack_egg           
+I=1156 W=put_pancake2plate   
+I=1157 W=take_plate          
+I=1158 W=fry_pancake         
+I=1159 W=pour_dough2pan      
+I=1160 W=stir_dough          
+I=1161 W=pour_flour          
+I=1162 W=stir_dough          
+I=1163 W=pour_milk           
+I=1164 W=pour_flour          
+I=1165 W=crack_egg           
+I=1166 W=butter_pan          
+I=1167 W=put_pancake2plate   
+I=1168 W=fry_pancake         
+I=1169 W=pour_dough2pan      
+I=1170 W=stir_dough          
+I=1171 W=pour_milk           
+I=1172 W=pour_flour          
+I=1173 W=crack_egg           
+I=1174 W=put_pancake2plate   
+I=1175 W=take_plate          
+I=1176 W=fry_pancake         
+I=1177 W=pour_dough2pan      
+I=1178 W=stir_dough          
+I=1179 W=crack_egg           
+I=1180 W=pour_milk           
+I=1181 W=butter_pan          
+I=1182 W=spoon_flour         
+I=1183 W=put_pancake2plate   
+I=1184 W=take_plate          
+I=1185 W=fry_pancake         
+I=1186 W=pour_dough2pan      
+I=1187 W=stir_dough          
+I=1188 W=pour_oil            
+I=1189 W=stir_dough          
+I=1190 W=pour_milk           
+I=1191 W=spoon_flour         
+I=1192 W=crack_egg           
+I=1193 W=put_pancake2plate   
+I=1194 W=take_plate          
+I=1195 W=fry_pancake         
+I=1196 W=pour_oil            
+I=1197 W=fry_pancake         
+I=1198 W=pour_dough2pan      
+I=1199 W=stir_dough          
+I=1200 W=pour_milk           
+I=1201 W=pour_milk           
+I=1202 W=stir_dough          
+I=1203 W=crack_egg           
+I=1204 W=spoon_flour         
+I=1205 W=take_plate          
+I=1206 W=fry_pancake         
+I=1207 W=pour_dough2pan      
+I=1208 W=stir_dough          
+I=1209 W=pour_milk           
+I=1210 W=spoon_flour         
+I=1211 W=crack_egg           
+I=1212 W=put_pancake2plate   
+I=1213 W=take_plate          
+I=1214 W=fry_pancake         
+I=1215 W=pour_dough2pan      
+I=1216 W=stir_dough          
+I=1217 W=pour_milk           
+I=1218 W=stir_dough          
+I=1219 W=spoon_flour         
+I=1220 W=crack_egg           
+I=1221 W=put_pancake2plate   
+I=1222 W=fry_pancake         
+I=1223 W=pour_dough2pan      
+I=1224 W=stir_dough          
+I=1225 W=pour_milk           
+I=1226 W=spoon_flour         
+I=1227 W=crack_egg           
+I=1228 W=take_plate          
+I=1229 W=fry_pancake         
+I=1230 W=pour_dough2pan      
+I=1231 W=stir_dough          
+I=1232 W=pour_milk           
+I=1233 W=spoon_flour         
+I=1234 W=stir_dough          
+I=1235 W=crack_egg           
+I=1236 W=put_pancake2plate   
+I=1237 W=take_plate          
+I=1238 W=fry_pancake         
+I=1239 W=pour_dough2pan      
+I=1240 W=pour_oil            
+I=1241 W=stir_dough          
+I=1242 W=pour_milk           
+I=1243 W=spoon_flour         
+I=1244 W=crack_egg           
+I=1245 W=take_bowl           
+I=1246 W=stir_milk           
+I=1247 W=pour_milk           
+I=1248 W=stir_milk           
+I=1249 W=spoon_powder        
+I=1250 W=pour_milk           
+I=1251 W=spoon_powder        
+I=1252 W=pour_milk           
+I=1253 W=spoon_powder        
+I=1254 W=pour_milk           
+I=1255 W=take_cup            
+I=1256 W=stir_milk           
+I=1257 W=spoon_powder        
+I=1258 W=pour_milk           
+I=1259 W=take_cup            
+I=1260 W=pour_milk           
+I=1261 W=stir_milk           
+I=1262 W=spoon_powder        
+I=1263 W=pour_milk           
+I=1264 W=stir_milk           
+I=1265 W=spoon_powder        
+I=1266 W=stir_milk           
+I=1267 W=pour_milk           
+I=1268 W=spoon_powder        
+I=1269 W=stir_milk           
+I=1270 W=pour_milk           
+I=1271 W=stir_milk           
+I=1272 W=pour_milk           
+I=1273 W=spoon_powder        
+I=1274 W=take_cup            
+I=1275 W=pour_milk           
+I=1276 W=stir_milk           
+I=1277 W=pour_milk           
+I=1278 W=spoon_powder        
+I=1279 W=stir_milk           
+I=1280 W=spoon_powder        
+I=1281 W=pour_milk           
+I=1282 W=pour_milk           
+I=1283 W=spoon_powder        
+I=1284 W=take_cup            
+I=1285 W=pour_milk           
+I=1286 W=stir_milk           
+I=1287 W=pour_milk           
+I=1288 W=spoon_powder        
+I=1289 W=take_cup            
+I=1290 W=stir_milk           
+I=1291 W=pour_milk           
+I=1292 W=spoon_powder        
+I=1293 W=stir_milk           
+I=1294 W=pour_milk           
+I=1295 W=spoon_powder        
+I=1296 W=take_cup            
+I=1297 W=pour_juice          
+I=1298 W=take_glass          
+I=1299 W=squeeze_orange      
+I=1300 W=take_squeezer       
+I=1301 W=cut_orange          
+I=1302 W=take_plate          
+I=1303 W=pour_juice          
+I=1304 W=take_glass          
+I=1305 W=squeeze_orange      
+I=1306 W=take_squeezer       
+I=1307 W=cut_orange          
+I=1308 W=take_knife          
+I=1309 W=take_plate          
+I=1310 W=pour_juice          
+I=1311 W=squeeze_orange      
+I=1312 W=take_squeezer       
+I=1313 W=cut_orange          
+I=1314 W=take_glass          
+I=1315 W=take_plate          
+I=1316 W=pour_juice          
+I=1317 W=take_glass          
+I=1318 W=squeeze_orange      
+I=1319 W=take_squeezer       
+I=1320 W=cut_orange          
+I=1321 W=take_glass          
+I=1322 W=squeeze_orange      
+I=1323 W=cut_orange          
+I=1324 W=pour_juice          
+I=1325 W=squeeze_orange      
+I=1326 W=pour_juice          
+I=1327 W=take_glass          
+I=1328 W=squeeze_orange      
+I=1329 W=take_squeezer       
+I=1330 W=cut_orange          
+I=1331 W=take_knife          
+I=1332 W=take_plate          
+I=1333 W=pour_juice          
+I=1334 W=squeeze_orange      
+I=1335 W=take_squeezer       
+I=1336 W=cut_orange          
+I=1337 W=pour_juice          
+I=1338 W=take_glass          
+I=1339 W=squeeze_orange      
+I=1340 W=cut_orange          
+I=1341 W=take_plate          
+I=1342 W=pour_juice          
+I=1343 W=squeeze_orange      
+I=1344 W=pour_juice          
+I=1345 W=take_glass          
+I=1346 W=squeeze_orange      
+I=1347 W=cut_orange          
+I=1348 W=pour_juice          
+I=1349 W=squeeze_orange      
+I=1350 W=cut_orange          
+I=1351 W=pour_juice          
+I=1352 W=squeeze_orange      
+I=1353 W=pour_juice          
+I=1354 W=take_glass          
+I=1355 W=squeeze_orange      
+I=1356 W=pour_juice          
+I=1357 W=take_glass          
+I=1358 W=squeeze_orange      
+I=1359 W=cut_orange          
+I=1360 W=squeeze_orange      
+I=1361 W=pour_juice          
+I=1362 W=squeeze_orange      
+I=1363 W=pour_juice          
+I=1364 W=squeeze_orange      
+I=1365 W=pour_juice          
+I=1366 W=squeeze_orange      
+I=1367 W=pour_juice          
+I=1368 W=squeeze_orange      
+I=1369 W=cut_orange          
+I=1370 W=take_glass          
+I=1371 W=pour_juice          
+I=1372 W=squeeze_orange      
+I=1373 W=cut_orange          
+I=1374 W=take_glass          
+I=1375 W=pour_juice          
+I=1376 W=squeeze_orange      
+I=1377 W=pour_juice          
+I=1378 W=squeeze_orange      
+I=1379 W=pour_juice          
+I=1380 W=squeeze_orange      
+I=1381 W=pour_juice          
+I=1382 W=squeeze_orange      
+I=1383 W=cut_orange          
+I=1384 W=take_knife          
+I=1385 W=pour_juice          
+I=1386 W=squeeze_orange      
+I=1387 W=take_squeezer       
+I=1388 W=take_glass          
+I=1389 W=cut_orange          
+I=1390 W=pour_juice          
+I=1391 W=squeeze_orange      
+I=1392 W=take_squeezer       
+I=1393 W=cut_orange          
+I=1394 W=take_plate          
+I=1395 W=take_glass          
+I=1396 W=pour_juice          
+I=1397 W=take_glass          
+I=1398 W=squeeze_orange      
+I=1399 W=cut_orange          
+I=1400 W=take_squeezer       
+I=1401 W=pour_juice          
+I=1402 W=squeeze_orange      
+I=1403 W=cut_orange          
+I=1404 W=take_glass          
+I=1405 W=take_squeezer       
+I=1406 W=pour_juice          
+I=1407 W=take_glass          
+I=1408 W=squeeze_orange      
+I=1409 W=cut_orange          
+I=1410 W=take_knife          
+I=1411 W=pour_juice          
+I=1412 W=take_glass          
+I=1413 W=squeeze_orange      
+I=1414 W=cut_orange          
+I=1415 W=take_knife          
+I=1416 W=take_plate          
+I=1417 W=pour_juice          
+I=1418 W=squeeze_orange      
+I=1419 W=take_squeezer       
+I=1420 W=cut_orange          
+I=1421 W=take_knife          
+I=1422 W=take_glass          
+I=1423 W=pour_juice          
+I=1424 W=squeeze_orange      
+I=1425 W=pour_juice          
+I=1426 W=squeeze_orange      
+I=1427 W=take_squeezer       
+I=1428 W=cut_orange          
+I=1429 W=take_plate          
+I=1430 W=put_egg2plate       
+I=1431 W=fry_egg             
+I=1432 W=take_plate          
+I=1433 W=add_saltnpepper     
+I=1434 W=crack_egg           
+I=1435 W=put_egg2plate       
+I=1436 W=fry_egg             
+I=1437 W=take_plate          
+I=1438 W=fry_egg             
+I=1439 W=add_saltnpepper     
+I=1440 W=crack_egg           
+I=1441 W=put_egg2plate       
+I=1442 W=take_plate          
+I=1443 W=fry_egg             
+I=1444 W=add_saltnpepper     
+I=1445 W=crack_egg           
+I=1446 W=butter_pan          
+I=1447 W=butter_pan          
+I=1448 W=put_egg2plate       
+I=1449 W=fry_egg             
+I=1450 W=add_saltnpepper     
+I=1451 W=take_plate          
+I=1452 W=crack_egg           
+I=1453 W=butter_pan          
+I=1454 W=put_egg2plate       
+I=1455 W=fry_egg             
+I=1456 W=add_saltnpepper     
+I=1457 W=crack_egg           
+I=1458 W=put_egg2plate       
+I=1459 W=fry_egg             
+I=1460 W=add_saltnpepper     
+I=1461 W=fry_egg             
+I=1462 W=crack_egg           
+I=1463 W=butter_pan          
+I=1464 W=put_egg2plate       
+I=1465 W=take_plate          
+I=1466 W=add_saltnpepper     
+I=1467 W=fry_egg             
+I=1468 W=crack_egg           
+I=1469 W=butter_pan          
+I=1470 W=put_egg2plate       
+I=1471 W=fry_egg             
+I=1472 W=add_saltnpepper     
+I=1473 W=fry_egg             
+I=1474 W=add_saltnpepper     
+I=1475 W=crack_egg           
+I=1476 W=butter_pan          
+I=1477 W=fry_egg             
+I=1478 W=crack_egg           
+I=1479 W=butter_pan          
+I=1480 W=put_egg2plate       
+I=1481 W=fry_egg             
+I=1482 W=fry_egg             
+I=1483 W=crack_egg           
+I=1484 W=butter_pan          
+I=1485 W=put_egg2plate       
+I=1486 W=take_plate          
+I=1487 W=add_saltnpepper     
+I=1488 W=fry_egg             
+I=1489 W=crack_egg           
+I=1490 W=put_egg2plate       
+I=1491 W=fry_egg             
+I=1492 W=add_saltnpepper     
+I=1493 W=crack_egg           
+I=1494 W=pour_oil            
+I=1495 W=put_egg2plate       
+I=1496 W=add_saltnpepper     
+I=1497 W=take_plate          
+I=1498 W=fry_egg             
+I=1499 W=crack_egg           
+I=1500 W=butter_pan          
+I=1501 W=take_eggs           
+I=1502 W=put_egg2plate       
+I=1503 W=fry_egg             
+I=1504 W=crack_egg           
+I=1505 W=butter_pan          
+I=1506 W=put_egg2plate       
+I=1507 W=fry_egg             
+I=1508 W=crack_egg           
+I=1509 W=put_egg2plate       
+I=1510 W=take_plate          
+I=1511 W=add_saltnpepper     
+I=1512 W=fry_egg             
+I=1513 W=crack_egg           
+I=1514 W=pour_oil            
+I=1515 W=put_egg2plate       
+I=1516 W=fry_egg             
+I=1517 W=add_saltnpepper     
+I=1518 W=crack_egg           
+I=1519 W=take_eggs           
+I=1520 W=pour_oil            
+I=1521 W=put_egg2plate       
+I=1522 W=take_plate          
+I=1523 W=fry_egg             
+I=1524 W=crack_egg           
+I=1525 W=put_egg2plate       
+I=1526 W=take_plate          
+I=1527 W=fry_egg             
+I=1528 W=add_saltnpepper     
+I=1529 W=crack_egg           
+I=1530 W=pour_oil            
+I=1531 W=put_egg2plate       
+I=1532 W=take_plate          
+I=1533 W=fry_egg             
+I=1534 W=add_saltnpepper     
+I=1535 W=add_saltnpepper     
+I=1536 W=crack_egg           
+I=1537 W=pour_oil            
+I=1538 W=put_egg2plate       
+I=1539 W=fry_egg             
+I=1540 W=add_saltnpepper     
+I=1541 W=fry_egg             
+I=1542 W=crack_egg           
+I=1543 W=put_egg2plate       
+I=1544 W=fry_egg             
+I=1545 W=add_saltnpepper     
+I=1546 W=fry_egg             
+I=1547 W=take_plate          
+I=1548 W=fry_egg             
+I=1549 W=crack_egg           
+I=1550 W=butter_pan          
+I=1551 W=put_egg2plate       
+I=1552 W=fry_egg             
+I=1553 W=fry_egg             
+I=1554 W=add_saltnpepper     
+I=1555 W=crack_egg           
+I=1556 W=butter_pan          
+I=1557 W=put_egg2plate       
+I=1558 W=fry_egg             
+I=1559 W=fry_egg             
+I=1560 W=crack_egg           
+I=1561 W=pour_oil            
+I=1562 W=take_eggs           
+I=1563 W=put_egg2plate       
+I=1564 W=take_plate          
+I=1565 W=fry_egg             
+I=1566 W=fry_egg             
+I=1567 W=fry_egg             
+I=1568 W=fry_egg             
+I=1569 W=add_saltnpepper     
+I=1570 W=crack_egg           
+I=1571 W=pour_oil            
+I=1572 W=put_egg2plate       
+I=1573 W=fry_egg             
+I=1574 W=take_plate          
+I=1575 W=crack_egg           
+I=1576 W=put_egg2plate       
+I=1577 W=take_plate          
+I=1578 W=fry_egg             
+I=1579 W=fry_egg             
+I=1580 W=crack_egg           
+I=1581 W=put_egg2plate       
+I=1582 W=take_plate          
+I=1583 W=fry_egg             
+I=1584 W=pour_oil            
+I=1585 W=crack_egg           
+I=1586 W=put_egg2plate       
+I=1587 W=fry_egg             
+I=1588 W=fry_egg             
+I=1589 W=fry_egg             
+I=1590 W=take_plate          
+I=1591 W=crack_egg           
+I=1592 W=put_egg2plate       
+I=1593 W=take_plate          
+I=1594 W=fry_egg             
+I=1595 W=add_saltnpepper     
+I=1596 W=crack_egg           
+I=1597 W=butter_pan          
+I=1598 W=put_egg2plate       
+I=1599 W=fry_egg             
+I=1600 W=add_saltnpepper     
+I=1601 W=fry_egg             
+I=1602 W=crack_egg           
+I=1603 W=pour_oil            
+I=1604 W=put_egg2plate       
+I=1605 W=fry_egg             
+I=1606 W=pour_oil            
+I=1607 W=fry_egg             
+I=1608 W=pour_oil            
+I=1609 W=fry_egg             
+I=1610 W=crack_egg           
+I=1611 W=put_egg2plate       
+I=1612 W=fry_egg             
+I=1613 W=take_plate          
+I=1614 W=fry_egg             
+I=1615 W=add_saltnpepper     
+I=1616 W=fry_egg             
+I=1617 W=crack_egg           
+I=1618 W=pour_oil            
+I=1619 W=put_egg2plate       
+I=1620 W=fry_egg             
+I=1621 W=add_saltnpepper     
+I=1622 W=crack_egg           
+I=1623 W=butter_pan          
+I=1624 W=put_egg2plate       
+I=1625 W=fry_egg             
+I=1626 W=add_saltnpepper     
+I=1627 W=fry_egg             
+I=1628 W=crack_egg           
+I=1629 W=take_plate          
+I=1630 W=take_eggs           
+I=1631 W=pour_oil            
+I=1632 W=take_plate          
+I=1633 W=put_egg2plate       
+I=1634 W=fry_egg             
+I=1635 W=take_plate          
+I=1636 W=add_saltnpepper     
+I=1637 W=crack_egg           
+I=1638 W=pour_oil            
+I=1639 W=put_egg2plate       
+I=1640 W=take_plate          
+I=1641 W=fry_egg             
+I=1642 W=crack_egg           
+I=1643 W=pour_oil            
+I=1644 W=put_egg2plate       
+I=1645 W=fry_egg             
+I=1646 W=crack_egg           
+I=1647 W=pour_oil            
+I=1648 W=stir_coffee         
+I=1649 W=pour_milk           
+I=1650 W=pour_sugar          
+I=1651 W=pour_coffee         
+I=1652 W=stir_coffee         
+I=1653 W=spoon_sugar         
+I=1654 W=pour_milk           
+I=1655 W=pour_coffee         
+I=1656 W=stir_coffee         
+I=1657 W=pour_sugar          
+I=1658 W=pour_milk           
+I=1659 W=pour_coffee         
+I=1660 W=take_cup            
+I=1661 W=stir_coffee         
+I=1662 W=pour_milk           
+I=1663 W=spoon_sugar         
+I=1664 W=pour_coffee         
+I=1665 W=take_cup            
+I=1666 W=pour_milk           
+I=1667 W=spoon_sugar         
+I=1668 W=pour_coffee         
+I=1669 W=stir_coffee         
+I=1670 W=spoon_sugar         
+I=1671 W=pour_coffee         
+I=1672 W=stir_coffee         
+I=1673 W=spoon_sugar         
+I=1674 W=pour_milk           
+I=1675 W=pour_coffee         
+I=1676 W=take_cup            
+I=1677 W=pour_milk           
+I=1678 W=pour_coffee         
+I=1679 W=pour_coffee         
+I=1680 W=take_cup            
+I=1681 W=pour_coffee         
+I=1682 W=pour_sugar          
+I=1683 W=pour_milk           
+I=1684 W=pour_coffee         
+I=1685 W=take_cup            
+I=1686 W=pour_milk           
+I=1687 W=pour_sugar          
+I=1688 W=pour_coffee         
+I=1689 W=take_cup            
+I=1690 W=pour_milk           
+I=1691 W=pour_coffee         
+I=1692 W=take_cup            
+I=1693 W=stir_cereals        
+I=1694 W=pour_milk           
+I=1695 W=pour_cereals        
+I=1696 W=pour_cereals        
+I=1697 W=take_bowl           
+I=1698 W=pour_milk           
+I=1699 W=pour_milk           
+I=1700 W=pour_cereals        
+I=1701 W=stir_cereals        
+I=1702 W=pour_milk           
+I=1703 W=pour_cereals        
+I=1704 W=pour_milk           
+I=1705 W=pour_cereals        
+I=1706 W=take_bowl           
+I=1707 W=pour_milk           
+I=1708 W=pour_cereals        
+I=1709 W=stir_cereals        
+I=1710 W=pour_milk           
+I=1711 W=pour_cereals        
+I=1712 W=take_bowl           
+I=1713 W=SIL                 
+I=1714 W=!NULL               
+I=1715 W=!NULL               
+J=0     S=2    E=0    
+J=1     S=3    E=1    
+J=2     S=1    E=2    
+J=3     S=6    E=2    
+J=4     S=10   E=2    
+J=5     S=14   E=2    
+J=6     S=19   E=2    
+J=7     S=21   E=2    
+J=8     S=24   E=2    
+J=9     S=26   E=2    
+J=10    S=29   E=2    
+J=11    S=38   E=2    
+J=12    S=46   E=2    
+J=13    S=54   E=2    
+J=14    S=64   E=2    
+J=15    S=72   E=2    
+J=16    S=80   E=2    
+J=17    S=86   E=2    
+J=18    S=93   E=2    
+J=19    S=100  E=2    
+J=20    S=106  E=2    
+J=21    S=115  E=2    
+J=22    S=122  E=2    
+J=23    S=128  E=2    
+J=24    S=133  E=2    
+J=25    S=142  E=2    
+J=26    S=147  E=2    
+J=27    S=155  E=2    
+J=28    S=164  E=2    
+J=29    S=168  E=2    
+J=30    S=176  E=2    
+J=31    S=180  E=2    
+J=32    S=189  E=2    
+J=33    S=196  E=2    
+J=34    S=203  E=2    
+J=35    S=209  E=2    
+J=36    S=217  E=2    
+J=37    S=228  E=2    
+J=38    S=233  E=2    
+J=39    S=239  E=2    
+J=40    S=247  E=2    
+J=41    S=256  E=2    
+J=42    S=261  E=2    
+J=43    S=267  E=2    
+J=44    S=274  E=2    
+J=45    S=283  E=2    
+J=46    S=287  E=2    
+J=47    S=295  E=2    
+J=48    S=304  E=2    
+J=49    S=309  E=2    
+J=50    S=313  E=2    
+J=51    S=317  E=2    
+J=52    S=322  E=2    
+J=53    S=326  E=2    
+J=54    S=330  E=2    
+J=55    S=336  E=2    
+J=56    S=340  E=2    
+J=57    S=345  E=2    
+J=58    S=350  E=2    
+J=59    S=352  E=2    
+J=60    S=355  E=2    
+J=61    S=360  E=2    
+J=62    S=363  E=2    
+J=63    S=367  E=2    
+J=64    S=373  E=2    
+J=65    S=380  E=2    
+J=66    S=386  E=2    
+J=67    S=391  E=2    
+J=68    S=395  E=2    
+J=69    S=402  E=2    
+J=70    S=407  E=2    
+J=71    S=414  E=2    
+J=72    S=419  E=2    
+J=73    S=427  E=2    
+J=74    S=437  E=2    
+J=75    S=441  E=2    
+J=76    S=450  E=2    
+J=77    S=459  E=2    
+J=78    S=468  E=2    
+J=79    S=479  E=2    
+J=80    S=487  E=2    
+J=81    S=504  E=2    
+J=82    S=507  E=2    
+J=83    S=509  E=2    
+J=84    S=515  E=2    
+J=85    S=523  E=2    
+J=86    S=528  E=2    
+J=87    S=535  E=2    
+J=88    S=542  E=2    
+J=89    S=549  E=2    
+J=90    S=558  E=2    
+J=91    S=563  E=2    
+J=92    S=571  E=2    
+J=93    S=577  E=2    
+J=94    S=586  E=2    
+J=95    S=598  E=2    
+J=96    S=621  E=2    
+J=97    S=625  E=2    
+J=98    S=633  E=2    
+J=99    S=641  E=2    
+J=100   S=657  E=2    
+J=101   S=669  E=2    
+J=102   S=675  E=2    
+J=103   S=682  E=2    
+J=104   S=690  E=2    
+J=105   S=697  E=2    
+J=106   S=700  E=2    
+J=107   S=705  E=2    
+J=108   S=716  E=2    
+J=109   S=725  E=2    
+J=110   S=732  E=2    
+J=111   S=737  E=2    
+J=112   S=746  E=2    
+J=113   S=754  E=2    
+J=114   S=760  E=2    
+J=115   S=770  E=2    
+J=116   S=781  E=2    
+J=117   S=797  E=2    
+J=118   S=810  E=2    
+J=119   S=826  E=2    
+J=120   S=831  E=2    
+J=121   S=841  E=2    
+J=122   S=850  E=2    
+J=123   S=860  E=2    
+J=124   S=870  E=2    
+J=125   S=879  E=2    
+J=126   S=886  E=2    
+J=127   S=896  E=2    
+J=128   S=906  E=2    
+J=129   S=917  E=2    
+J=130   S=925  E=2    
+J=131   S=934  E=2    
+J=132   S=944  E=2    
+J=133   S=952  E=2    
+J=134   S=960  E=2    
+J=135   S=970  E=2    
+J=136   S=976  E=2    
+J=137   S=985  E=2    
+J=138   S=1001 E=2    
+J=139   S=1008 E=2    
+J=140   S=1015 E=2    
+J=141   S=1023 E=2    
+J=142   S=1031 E=2    
+J=143   S=1041 E=2    
+J=144   S=1055 E=2    
+J=145   S=1064 E=2    
+J=146   S=1072 E=2    
+J=147   S=1084 E=2    
+J=148   S=1095 E=2    
+J=149   S=1106 E=2    
+J=150   S=1115 E=2    
+J=151   S=1127 E=2    
+J=152   S=1137 E=2    
+J=153   S=1146 E=2    
+J=154   S=1156 E=2    
+J=155   S=1167 E=2    
+J=156   S=1174 E=2    
+J=157   S=1183 E=2    
+J=158   S=1193 E=2    
+J=159   S=1205 E=2    
+J=160   S=1212 E=2    
+J=161   S=1221 E=2    
+J=162   S=1228 E=2    
+J=163   S=1236 E=2    
+J=164   S=1246 E=2    
+J=165   S=1251 E=2    
+J=166   S=1253 E=2    
+J=167   S=1256 E=2    
+J=168   S=1260 E=2    
+J=169   S=1264 E=2    
+J=170   S=1269 E=2    
+J=171   S=1275 E=2    
+J=172   S=1279 E=2    
+J=173   S=1282 E=2    
+J=174   S=1285 E=2    
+J=175   S=1290 E=2    
+J=176   S=1293 E=2    
+J=177   S=1297 E=2    
+J=178   S=1303 E=2    
+J=179   S=1310 E=2    
+J=180   S=1316 E=2    
+J=181   S=1321 E=2    
+J=182   S=1324 E=2    
+J=183   S=1333 E=2    
+J=184   S=1337 E=2    
+J=185   S=1342 E=2    
+J=186   S=1348 E=2    
+J=187   S=1351 E=2    
+J=188   S=1353 E=2    
+J=189   S=1356 E=2    
+J=190   S=1360 E=2    
+J=191   S=1371 E=2    
+J=192   S=1375 E=2    
+J=193   S=1385 E=2    
+J=194   S=1390 E=2    
+J=195   S=1396 E=2    
+J=196   S=1401 E=2    
+J=197   S=1406 E=2    
+J=198   S=1411 E=2    
+J=199   S=1417 E=2    
+J=200   S=1423 E=2    
+J=201   S=1430 E=2    
+J=202   S=1435 E=2    
+J=203   S=1441 E=2    
+J=204   S=1448 E=2    
+J=205   S=1454 E=2    
+J=206   S=1458 E=2    
+J=207   S=1464 E=2    
+J=208   S=1470 E=2    
+J=209   S=1477 E=2    
+J=210   S=1480 E=2    
+J=211   S=1485 E=2    
+J=212   S=1490 E=2    
+J=213   S=1495 E=2    
+J=214   S=1502 E=2    
+J=215   S=1506 E=2    
+J=216   S=1509 E=2    
+J=217   S=1515 E=2    
+J=218   S=1521 E=2    
+J=219   S=1525 E=2    
+J=220   S=1531 E=2    
+J=221   S=1538 E=2    
+J=222   S=1543 E=2    
+J=223   S=1551 E=2    
+J=224   S=1557 E=2    
+J=225   S=1563 E=2    
+J=226   S=1572 E=2    
+J=227   S=1576 E=2    
+J=228   S=1581 E=2    
+J=229   S=1586 E=2    
+J=230   S=1592 E=2    
+J=231   S=1598 E=2    
+J=232   S=1604 E=2    
+J=233   S=1611 E=2    
+J=234   S=1619 E=2    
+J=235   S=1624 E=2    
+J=236   S=1632 E=2    
+J=237   S=1639 E=2    
+J=238   S=1644 E=2    
+J=239   S=1648 E=2    
+J=240   S=1652 E=2    
+J=241   S=1656 E=2    
+J=242   S=1661 E=2    
+J=243   S=1666 E=2    
+J=244   S=1669 E=2    
+J=245   S=1672 E=2    
+J=246   S=1677 E=2    
+J=247   S=1679 E=2    
+J=248   S=1681 E=2    
+J=249   S=1682 E=2    
+J=250   S=1686 E=2    
+J=251   S=1690 E=2    
+J=252   S=1693 E=2    
+J=253   S=1698 E=2    
+J=254   S=1701 E=2    
+J=255   S=1704 E=2    
+J=256   S=1707 E=2    
+J=257   S=1709 E=2    
+J=258   S=4    E=3    
+J=259   S=5    E=4    
+J=260   S=1713 E=5    
+J=261   S=7    E=6    
+J=262   S=8    E=7    
+J=263   S=9    E=8    
+J=264   S=1713 E=9    
+J=265   S=11   E=10   
+J=266   S=12   E=11   
+J=267   S=13   E=12   
+J=268   S=1713 E=13   
+J=269   S=15   E=14   
+J=270   S=16   E=15   
+J=271   S=17   E=16   
+J=272   S=18   E=17   
+J=273   S=1713 E=18   
+J=274   S=20   E=19   
+J=275   S=1713 E=20   
+J=276   S=22   E=21   
+J=277   S=23   E=22   
+J=278   S=1713 E=23   
+J=279   S=25   E=24   
+J=280   S=1713 E=25   
+J=281   S=27   E=26   
+J=282   S=28   E=27   
+J=283   S=1713 E=28   
+J=284   S=30   E=29   
+J=285   S=31   E=30   
+J=286   S=32   E=31   
+J=287   S=33   E=32   
+J=288   S=34   E=33   
+J=289   S=35   E=34   
+J=290   S=36   E=35   
+J=291   S=37   E=36   
+J=292   S=1713 E=37   
+J=293   S=39   E=38   
+J=294   S=40   E=39   
+J=295   S=41   E=40   
+J=296   S=42   E=41   
+J=297   S=43   E=42   
+J=298   S=44   E=43   
+J=299   S=45   E=44   
+J=300   S=1713 E=45   
+J=301   S=47   E=46   
+J=302   S=48   E=47   
+J=303   S=49   E=48   
+J=304   S=50   E=49   
+J=305   S=51   E=50   
+J=306   S=52   E=51   
+J=307   S=53   E=52   
+J=308   S=1713 E=53   
+J=309   S=55   E=54   
+J=310   S=56   E=55   
+J=311   S=57   E=56   
+J=312   S=58   E=57   
+J=313   S=59   E=58   
+J=314   S=60   E=59   
+J=315   S=61   E=60   
+J=316   S=62   E=61   
+J=317   S=63   E=62   
+J=318   S=1713 E=63   
+J=319   S=65   E=64   
+J=320   S=66   E=65   
+J=321   S=67   E=66   
+J=322   S=68   E=67   
+J=323   S=69   E=68   
+J=324   S=70   E=69   
+J=325   S=71   E=70   
+J=326   S=1713 E=71   
+J=327   S=73   E=72   
+J=328   S=74   E=73   
+J=329   S=75   E=74   
+J=330   S=76   E=75   
+J=331   S=77   E=76   
+J=332   S=78   E=77   
+J=333   S=79   E=78   
+J=334   S=1713 E=79   
+J=335   S=81   E=80   
+J=336   S=82   E=81   
+J=337   S=83   E=82   
+J=338   S=84   E=83   
+J=339   S=85   E=84   
+J=340   S=1713 E=85   
+J=341   S=87   E=86   
+J=342   S=88   E=87   
+J=343   S=89   E=88   
+J=344   S=90   E=89   
+J=345   S=91   E=90   
+J=346   S=92   E=91   
+J=347   S=1713 E=92   
+J=348   S=94   E=93   
+J=349   S=95   E=94   
+J=350   S=96   E=95   
+J=351   S=97   E=96   
+J=352   S=98   E=97   
+J=353   S=99   E=98   
+J=354   S=1713 E=99   
+J=355   S=101  E=100  
+J=356   S=102  E=101  
+J=357   S=103  E=102  
+J=358   S=104  E=103  
+J=359   S=105  E=104  
+J=360   S=1713 E=105  
+J=361   S=107  E=106  
+J=362   S=108  E=107  
+J=363   S=109  E=108  
+J=364   S=110  E=109  
+J=365   S=111  E=110  
+J=366   S=112  E=111  
+J=367   S=113  E=112  
+J=368   S=114  E=113  
+J=369   S=1713 E=114  
+J=370   S=116  E=115  
+J=371   S=117  E=116  
+J=372   S=118  E=117  
+J=373   S=119  E=118  
+J=374   S=120  E=119  
+J=375   S=121  E=120  
+J=376   S=1713 E=121  
+J=377   S=123  E=122  
+J=378   S=124  E=123  
+J=379   S=125  E=124  
+J=380   S=126  E=125  
+J=381   S=127  E=126  
+J=382   S=1713 E=127  
+J=383   S=129  E=128  
+J=384   S=130  E=129  
+J=385   S=131  E=130  
+J=386   S=132  E=131  
+J=387   S=1713 E=132  
+J=388   S=134  E=133  
+J=389   S=135  E=134  
+J=390   S=136  E=135  
+J=391   S=137  E=136  
+J=392   S=138  E=137  
+J=393   S=139  E=138  
+J=394   S=140  E=139  
+J=395   S=141  E=140  
+J=396   S=1713 E=141  
+J=397   S=143  E=142  
+J=398   S=144  E=143  
+J=399   S=145  E=144  
+J=400   S=146  E=145  
+J=401   S=1713 E=146  
+J=402   S=148  E=147  
+J=403   S=149  E=148  
+J=404   S=150  E=149  
+J=405   S=151  E=150  
+J=406   S=152  E=151  
+J=407   S=153  E=152  
+J=408   S=154  E=153  
+J=409   S=1713 E=154  
+J=410   S=156  E=155  
+J=411   S=157  E=156  
+J=412   S=158  E=157  
+J=413   S=159  E=158  
+J=414   S=160  E=159  
+J=415   S=161  E=160  
+J=416   S=162  E=161  
+J=417   S=163  E=162  
+J=418   S=1713 E=163  
+J=419   S=165  E=164  
+J=420   S=166  E=165  
+J=421   S=167  E=166  
+J=422   S=1713 E=167  
+J=423   S=169  E=168  
+J=424   S=170  E=169  
+J=425   S=171  E=170  
+J=426   S=172  E=171  
+J=427   S=173  E=172  
+J=428   S=174  E=173  
+J=429   S=175  E=174  
+J=430   S=1713 E=175  
+J=431   S=177  E=176  
+J=432   S=178  E=177  
+J=433   S=179  E=178  
+J=434   S=1713 E=179  
+J=435   S=181  E=180  
+J=436   S=182  E=181  
+J=437   S=183  E=182  
+J=438   S=184  E=183  
+J=439   S=185  E=184  
+J=440   S=186  E=185  
+J=441   S=187  E=186  
+J=442   S=188  E=187  
+J=443   S=1713 E=188  
+J=444   S=190  E=189  
+J=445   S=191  E=190  
+J=446   S=192  E=191  
+J=447   S=193  E=192  
+J=448   S=194  E=193  
+J=449   S=195  E=194  
+J=450   S=1713 E=195  
+J=451   S=197  E=196  
+J=452   S=198  E=197  
+J=453   S=199  E=198  
+J=454   S=200  E=199  
+J=455   S=201  E=200  
+J=456   S=202  E=201  
+J=457   S=1713 E=202  
+J=458   S=204  E=203  
+J=459   S=205  E=204  
+J=460   S=206  E=205  
+J=461   S=207  E=206  
+J=462   S=208  E=207  
+J=463   S=1713 E=208  
+J=464   S=210  E=209  
+J=465   S=211  E=210  
+J=466   S=212  E=211  
+J=467   S=213  E=212  
+J=468   S=214  E=213  
+J=469   S=215  E=214  
+J=470   S=216  E=215  
+J=471   S=1713 E=216  
+J=472   S=218  E=217  
+J=473   S=219  E=218  
+J=474   S=220  E=219  
+J=475   S=221  E=220  
+J=476   S=222  E=221  
+J=477   S=223  E=222  
+J=478   S=224  E=223  
+J=479   S=225  E=224  
+J=480   S=226  E=225  
+J=481   S=227  E=226  
+J=482   S=1713 E=227  
+J=483   S=229  E=228  
+J=484   S=230  E=229  
+J=485   S=231  E=230  
+J=486   S=232  E=231  
+J=487   S=1713 E=232  
+J=488   S=234  E=233  
+J=489   S=235  E=234  
+J=490   S=236  E=235  
+J=491   S=237  E=236  
+J=492   S=238  E=237  
+J=493   S=1713 E=238  
+J=494   S=240  E=239  
+J=495   S=241  E=240  
+J=496   S=242  E=241  
+J=497   S=243  E=242  
+J=498   S=244  E=243  
+J=499   S=245  E=244  
+J=500   S=246  E=245  
+J=501   S=1713 E=246  
+J=502   S=248  E=247  
+J=503   S=249  E=248  
+J=504   S=250  E=249  
+J=505   S=251  E=250  
+J=506   S=252  E=251  
+J=507   S=253  E=252  
+J=508   S=254  E=253  
+J=509   S=255  E=254  
+J=510   S=1713 E=255  
+J=511   S=257  E=256  
+J=512   S=258  E=257  
+J=513   S=259  E=258  
+J=514   S=260  E=259  
+J=515   S=1713 E=260  
+J=516   S=262  E=261  
+J=517   S=263  E=262  
+J=518   S=264  E=263  
+J=519   S=265  E=264  
+J=520   S=266  E=265  
+J=521   S=1713 E=266  
+J=522   S=268  E=267  
+J=523   S=269  E=268  
+J=524   S=270  E=269  
+J=525   S=271  E=270  
+J=526   S=272  E=271  
+J=527   S=273  E=272  
+J=528   S=1713 E=273  
+J=529   S=275  E=274  
+J=530   S=276  E=275  
+J=531   S=277  E=276  
+J=532   S=278  E=277  
+J=533   S=279  E=278  
+J=534   S=280  E=279  
+J=535   S=281  E=280  
+J=536   S=282  E=281  
+J=537   S=1713 E=282  
+J=538   S=284  E=283  
+J=539   S=285  E=284  
+J=540   S=286  E=285  
+J=541   S=1713 E=286  
+J=542   S=288  E=287  
+J=543   S=289  E=288  
+J=544   S=290  E=289  
+J=545   S=291  E=290  
+J=546   S=292  E=291  
+J=547   S=293  E=292  
+J=548   S=294  E=293  
+J=549   S=1713 E=294  
+J=550   S=296  E=295  
+J=551   S=297  E=296  
+J=552   S=298  E=297  
+J=553   S=299  E=298  
+J=554   S=300  E=299  
+J=555   S=301  E=300  
+J=556   S=302  E=301  
+J=557   S=303  E=302  
+J=558   S=1713 E=303  
+J=559   S=305  E=304  
+J=560   S=306  E=305  
+J=561   S=307  E=306  
+J=562   S=308  E=307  
+J=563   S=1713 E=308  
+J=564   S=310  E=309  
+J=565   S=311  E=310  
+J=566   S=312  E=311  
+J=567   S=1713 E=312  
+J=568   S=314  E=313  
+J=569   S=315  E=314  
+J=570   S=316  E=315  
+J=571   S=1713 E=316  
+J=572   S=318  E=317  
+J=573   S=319  E=318  
+J=574   S=320  E=319  
+J=575   S=321  E=320  
+J=576   S=1713 E=321  
+J=577   S=323  E=322  
+J=578   S=324  E=323  
+J=579   S=325  E=324  
+J=580   S=1713 E=325  
+J=581   S=327  E=326  
+J=582   S=328  E=327  
+J=583   S=329  E=328  
+J=584   S=1713 E=329  
+J=585   S=331  E=330  
+J=586   S=332  E=331  
+J=587   S=333  E=332  
+J=588   S=334  E=333  
+J=589   S=335  E=334  
+J=590   S=1713 E=335  
+J=591   S=337  E=336  
+J=592   S=338  E=337  
+J=593   S=339  E=338  
+J=594   S=1713 E=339  
+J=595   S=341  E=340  
+J=596   S=342  E=341  
+J=597   S=343  E=342  
+J=598   S=344  E=343  
+J=599   S=1713 E=344  
+J=600   S=346  E=345  
+J=601   S=347  E=346  
+J=602   S=348  E=347  
+J=603   S=349  E=348  
+J=604   S=1713 E=349  
+J=605   S=351  E=350  
+J=606   S=1713 E=351  
+J=607   S=353  E=352  
+J=608   S=354  E=353  
+J=609   S=1713 E=354  
+J=610   S=356  E=355  
+J=611   S=357  E=356  
+J=612   S=358  E=357  
+J=613   S=359  E=358  
+J=614   S=1713 E=359  
+J=615   S=361  E=360  
+J=616   S=362  E=361  
+J=617   S=1713 E=362  
+J=618   S=364  E=363  
+J=619   S=365  E=364  
+J=620   S=366  E=365  
+J=621   S=1713 E=366  
+J=622   S=368  E=367  
+J=623   S=369  E=368  
+J=624   S=370  E=369  
+J=625   S=371  E=370  
+J=626   S=372  E=371  
+J=627   S=1713 E=372  
+J=628   S=374  E=373  
+J=629   S=375  E=374  
+J=630   S=376  E=375  
+J=631   S=377  E=376  
+J=632   S=378  E=377  
+J=633   S=379  E=378  
+J=634   S=1713 E=379  
+J=635   S=381  E=380  
+J=636   S=382  E=381  
+J=637   S=383  E=382  
+J=638   S=384  E=383  
+J=639   S=385  E=384  
+J=640   S=1713 E=385  
+J=641   S=387  E=386  
+J=642   S=388  E=387  
+J=643   S=389  E=388  
+J=644   S=390  E=389  
+J=645   S=1713 E=390  
+J=646   S=392  E=391  
+J=647   S=393  E=392  
+J=648   S=394  E=393  
+J=649   S=1713 E=394  
+J=650   S=396  E=395  
+J=651   S=397  E=396  
+J=652   S=398  E=397  
+J=653   S=399  E=398  
+J=654   S=400  E=399  
+J=655   S=401  E=400  
+J=656   S=1713 E=401  
+J=657   S=403  E=402  
+J=658   S=404  E=403  
+J=659   S=405  E=404  
+J=660   S=406  E=405  
+J=661   S=1713 E=406  
+J=662   S=408  E=407  
+J=663   S=409  E=408  
+J=664   S=410  E=409  
+J=665   S=411  E=410  
+J=666   S=412  E=411  
+J=667   S=413  E=412  
+J=668   S=1713 E=413  
+J=669   S=415  E=414  
+J=670   S=416  E=415  
+J=671   S=417  E=416  
+J=672   S=418  E=417  
+J=673   S=1713 E=418  
+J=674   S=420  E=419  
+J=675   S=421  E=420  
+J=676   S=422  E=421  
+J=677   S=423  E=422  
+J=678   S=424  E=423  
+J=679   S=425  E=424  
+J=680   S=426  E=425  
+J=681   S=1713 E=426  
+J=682   S=428  E=427  
+J=683   S=429  E=428  
+J=684   S=430  E=429  
+J=685   S=431  E=430  
+J=686   S=432  E=431  
+J=687   S=433  E=432  
+J=688   S=434  E=433  
+J=689   S=435  E=434  
+J=690   S=436  E=435  
+J=691   S=1713 E=436  
+J=692   S=438  E=437  
+J=693   S=439  E=438  
+J=694   S=440  E=439  
+J=695   S=1713 E=440  
+J=696   S=442  E=441  
+J=697   S=443  E=442  
+J=698   S=444  E=443  
+J=699   S=445  E=444  
+J=700   S=446  E=445  
+J=701   S=447  E=446  
+J=702   S=448  E=447  
+J=703   S=449  E=448  
+J=704   S=1713 E=449  
+J=705   S=451  E=450  
+J=706   S=452  E=451  
+J=707   S=453  E=452  
+J=708   S=454  E=453  
+J=709   S=455  E=454  
+J=710   S=456  E=455  
+J=711   S=457  E=456  
+J=712   S=458  E=457  
+J=713   S=1713 E=458  
+J=714   S=460  E=459  
+J=715   S=461  E=460  
+J=716   S=462  E=461  
+J=717   S=463  E=462  
+J=718   S=464  E=463  
+J=719   S=465  E=464  
+J=720   S=466  E=465  
+J=721   S=467  E=466  
+J=722   S=1713 E=467  
+J=723   S=469  E=468  
+J=724   S=470  E=469  
+J=725   S=471  E=470  
+J=726   S=472  E=471  
+J=727   S=473  E=472  
+J=728   S=474  E=473  
+J=729   S=475  E=474  
+J=730   S=476  E=475  
+J=731   S=477  E=476  
+J=732   S=478  E=477  
+J=733   S=1713 E=478  
+J=734   S=480  E=479  
+J=735   S=481  E=480  
+J=736   S=482  E=481  
+J=737   S=483  E=482  
+J=738   S=484  E=483  
+J=739   S=485  E=484  
+J=740   S=486  E=485  
+J=741   S=1713 E=486  
+J=742   S=488  E=487  
+J=743   S=489  E=488  
+J=744   S=490  E=489  
+J=745   S=491  E=490  
+J=746   S=492  E=491  
+J=747   S=493  E=492  
+J=748   S=494  E=493  
+J=749   S=495  E=494  
+J=750   S=496  E=495  
+J=751   S=497  E=496  
+J=752   S=498  E=497  
+J=753   S=499  E=498  
+J=754   S=500  E=499  
+J=755   S=501  E=500  
+J=756   S=502  E=501  
+J=757   S=503  E=502  
+J=758   S=1713 E=503  
+J=759   S=505  E=504  
+J=760   S=506  E=505  
+J=761   S=1713 E=506  
+J=762   S=508  E=507  
+J=763   S=1713 E=508  
+J=764   S=510  E=509  
+J=765   S=511  E=510  
+J=766   S=512  E=511  
+J=767   S=513  E=512  
+J=768   S=514  E=513  
+J=769   S=1713 E=514  
+J=770   S=516  E=515  
+J=771   S=517  E=516  
+J=772   S=518  E=517  
+J=773   S=519  E=518  
+J=774   S=520  E=519  
+J=775   S=521  E=520  
+J=776   S=522  E=521  
+J=777   S=1713 E=522  
+J=778   S=524  E=523  
+J=779   S=525  E=524  
+J=780   S=526  E=525  
+J=781   S=527  E=526  
+J=782   S=1713 E=527  
+J=783   S=529  E=528  
+J=784   S=530  E=529  
+J=785   S=531  E=530  
+J=786   S=532  E=531  
+J=787   S=533  E=532  
+J=788   S=534  E=533  
+J=789   S=1713 E=534  
+J=790   S=536  E=535  
+J=791   S=537  E=536  
+J=792   S=538  E=537  
+J=793   S=539  E=538  
+J=794   S=540  E=539  
+J=795   S=541  E=540  
+J=796   S=1713 E=541  
+J=797   S=543  E=542  
+J=798   S=544  E=543  
+J=799   S=545  E=544  
+J=800   S=546  E=545  
+J=801   S=547  E=546  
+J=802   S=548  E=547  
+J=803   S=1713 E=548  
+J=804   S=550  E=549  
+J=805   S=551  E=550  
+J=806   S=552  E=551  
+J=807   S=553  E=552  
+J=808   S=554  E=553  
+J=809   S=555  E=554  
+J=810   S=556  E=555  
+J=811   S=557  E=556  
+J=812   S=1713 E=557  
+J=813   S=559  E=558  
+J=814   S=560  E=559  
+J=815   S=561  E=560  
+J=816   S=562  E=561  
+J=817   S=1713 E=562  
+J=818   S=564  E=563  
+J=819   S=565  E=564  
+J=820   S=566  E=565  
+J=821   S=567  E=566  
+J=822   S=568  E=567  
+J=823   S=569  E=568  
+J=824   S=570  E=569  
+J=825   S=1713 E=570  
+J=826   S=572  E=571  
+J=827   S=573  E=572  
+J=828   S=574  E=573  
+J=829   S=575  E=574  
+J=830   S=576  E=575  
+J=831   S=1713 E=576  
+J=832   S=578  E=577  
+J=833   S=579  E=578  
+J=834   S=580  E=579  
+J=835   S=581  E=580  
+J=836   S=582  E=581  
+J=837   S=583  E=582  
+J=838   S=584  E=583  
+J=839   S=585  E=584  
+J=840   S=1713 E=585  
+J=841   S=587  E=586  
+J=842   S=588  E=587  
+J=843   S=589  E=588  
+J=844   S=590  E=589  
+J=845   S=591  E=590  
+J=846   S=592  E=591  
+J=847   S=593  E=592  
+J=848   S=594  E=593  
+J=849   S=595  E=594  
+J=850   S=596  E=595  
+J=851   S=597  E=596  
+J=852   S=1713 E=597  
+J=853   S=599  E=598  
+J=854   S=600  E=599  
+J=855   S=601  E=600  
+J=856   S=602  E=601  
+J=857   S=603  E=602  
+J=858   S=604  E=603  
+J=859   S=605  E=604  
+J=860   S=606  E=605  
+J=861   S=607  E=606  
+J=862   S=608  E=607  
+J=863   S=609  E=608  
+J=864   S=610  E=609  
+J=865   S=611  E=610  
+J=866   S=612  E=611  
+J=867   S=613  E=612  
+J=868   S=614  E=613  
+J=869   S=615  E=614  
+J=870   S=616  E=615  
+J=871   S=617  E=616  
+J=872   S=618  E=617  
+J=873   S=619  E=618  
+J=874   S=620  E=619  
+J=875   S=1713 E=620  
+J=876   S=622  E=621  
+J=877   S=623  E=622  
+J=878   S=624  E=623  
+J=879   S=1713 E=624  
+J=880   S=626  E=625  
+J=881   S=627  E=626  
+J=882   S=628  E=627  
+J=883   S=629  E=628  
+J=884   S=630  E=629  
+J=885   S=631  E=630  
+J=886   S=632  E=631  
+J=887   S=1713 E=632  
+J=888   S=634  E=633  
+J=889   S=635  E=634  
+J=890   S=636  E=635  
+J=891   S=637  E=636  
+J=892   S=638  E=637  
+J=893   S=639  E=638  
+J=894   S=640  E=639  
+J=895   S=1713 E=640  
+J=896   S=642  E=641  
+J=897   S=643  E=642  
+J=898   S=644  E=643  
+J=899   S=645  E=644  
+J=900   S=646  E=645  
+J=901   S=647  E=646  
+J=902   S=648  E=647  
+J=903   S=649  E=648  
+J=904   S=650  E=649  
+J=905   S=651  E=650  
+J=906   S=652  E=651  
+J=907   S=653  E=652  
+J=908   S=654  E=653  
+J=909   S=655  E=654  
+J=910   S=656  E=655  
+J=911   S=1713 E=656  
+J=912   S=658  E=657  
+J=913   S=659  E=658  
+J=914   S=660  E=659  
+J=915   S=661  E=660  
+J=916   S=662  E=661  
+J=917   S=663  E=662  
+J=918   S=664  E=663  
+J=919   S=665  E=664  
+J=920   S=666  E=665  
+J=921   S=667  E=666  
+J=922   S=668  E=667  
+J=923   S=1713 E=668  
+J=924   S=670  E=669  
+J=925   S=671  E=670  
+J=926   S=672  E=671  
+J=927   S=673  E=672  
+J=928   S=674  E=673  
+J=929   S=1713 E=674  
+J=930   S=676  E=675  
+J=931   S=677  E=676  
+J=932   S=678  E=677  
+J=933   S=679  E=678  
+J=934   S=680  E=679  
+J=935   S=681  E=680  
+J=936   S=1713 E=681  
+J=937   S=683  E=682  
+J=938   S=684  E=683  
+J=939   S=685  E=684  
+J=940   S=686  E=685  
+J=941   S=687  E=686  
+J=942   S=688  E=687  
+J=943   S=689  E=688  
+J=944   S=1713 E=689  
+J=945   S=691  E=690  
+J=946   S=692  E=691  
+J=947   S=693  E=692  
+J=948   S=694  E=693  
+J=949   S=695  E=694  
+J=950   S=696  E=695  
+J=951   S=1713 E=696  
+J=952   S=698  E=697  
+J=953   S=699  E=698  
+J=954   S=1713 E=699  
+J=955   S=701  E=700  
+J=956   S=702  E=701  
+J=957   S=703  E=702  
+J=958   S=704  E=703  
+J=959   S=1713 E=704  
+J=960   S=706  E=705  
+J=961   S=707  E=706  
+J=962   S=708  E=707  
+J=963   S=709  E=708  
+J=964   S=710  E=709  
+J=965   S=711  E=710  
+J=966   S=712  E=711  
+J=967   S=713  E=712  
+J=968   S=714  E=713  
+J=969   S=715  E=714  
+J=970   S=1713 E=715  
+J=971   S=717  E=716  
+J=972   S=718  E=717  
+J=973   S=719  E=718  
+J=974   S=720  E=719  
+J=975   S=721  E=720  
+J=976   S=722  E=721  
+J=977   S=723  E=722  
+J=978   S=724  E=723  
+J=979   S=1713 E=724  
+J=980   S=726  E=725  
+J=981   S=727  E=726  
+J=982   S=728  E=727  
+J=983   S=729  E=728  
+J=984   S=730  E=729  
+J=985   S=731  E=730  
+J=986   S=1713 E=731  
+J=987   S=733  E=732  
+J=988   S=734  E=733  
+J=989   S=735  E=734  
+J=990   S=736  E=735  
+J=991   S=1713 E=736  
+J=992   S=738  E=737  
+J=993   S=739  E=738  
+J=994   S=740  E=739  
+J=995   S=741  E=740  
+J=996   S=742  E=741  
+J=997   S=743  E=742  
+J=998   S=744  E=743  
+J=999   S=745  E=744  
+J=1000  S=1713 E=745  
+J=1001  S=747  E=746  
+J=1002  S=748  E=747  
+J=1003  S=749  E=748  
+J=1004  S=750  E=749  
+J=1005  S=751  E=750  
+J=1006  S=752  E=751  
+J=1007  S=753  E=752  
+J=1008  S=1713 E=753  
+J=1009  S=755  E=754  
+J=1010  S=756  E=755  
+J=1011  S=757  E=756  
+J=1012  S=758  E=757  
+J=1013  S=759  E=758  
+J=1014  S=1713 E=759  
+J=1015  S=761  E=760  
+J=1016  S=762  E=761  
+J=1017  S=763  E=762  
+J=1018  S=764  E=763  
+J=1019  S=765  E=764  
+J=1020  S=766  E=765  
+J=1021  S=767  E=766  
+J=1022  S=768  E=767  
+J=1023  S=769  E=768  
+J=1024  S=1713 E=769  
+J=1025  S=771  E=770  
+J=1026  S=772  E=771  
+J=1027  S=773  E=772  
+J=1028  S=774  E=773  
+J=1029  S=775  E=774  
+J=1030  S=776  E=775  
+J=1031  S=777  E=776  
+J=1032  S=778  E=777  
+J=1033  S=779  E=778  
+J=1034  S=780  E=779  
+J=1035  S=1713 E=780  
+J=1036  S=782  E=781  
+J=1037  S=783  E=782  
+J=1038  S=784  E=783  
+J=1039  S=785  E=784  
+J=1040  S=786  E=785  
+J=1041  S=787  E=786  
+J=1042  S=788  E=787  
+J=1043  S=789  E=788  
+J=1044  S=790  E=789  
+J=1045  S=791  E=790  
+J=1046  S=792  E=791  
+J=1047  S=793  E=792  
+J=1048  S=794  E=793  
+J=1049  S=795  E=794  
+J=1050  S=796  E=795  
+J=1051  S=1713 E=796  
+J=1052  S=798  E=797  
+J=1053  S=799  E=798  
+J=1054  S=800  E=799  
+J=1055  S=801  E=800  
+J=1056  S=802  E=801  
+J=1057  S=803  E=802  
+J=1058  S=804  E=803  
+J=1059  S=805  E=804  
+J=1060  S=806  E=805  
+J=1061  S=807  E=806  
+J=1062  S=808  E=807  
+J=1063  S=809  E=808  
+J=1064  S=1713 E=809  
+J=1065  S=811  E=810  
+J=1066  S=812  E=811  
+J=1067  S=813  E=812  
+J=1068  S=814  E=813  
+J=1069  S=815  E=814  
+J=1070  S=816  E=815  
+J=1071  S=817  E=816  
+J=1072  S=818  E=817  
+J=1073  S=819  E=818  
+J=1074  S=820  E=819  
+J=1075  S=821  E=820  
+J=1076  S=822  E=821  
+J=1077  S=823  E=822  
+J=1078  S=824  E=823  
+J=1079  S=825  E=824  
+J=1080  S=1713 E=825  
+J=1081  S=827  E=826  
+J=1082  S=828  E=827  
+J=1083  S=829  E=828  
+J=1084  S=830  E=829  
+J=1085  S=1713 E=830  
+J=1086  S=832  E=831  
+J=1087  S=833  E=832  
+J=1088  S=834  E=833  
+J=1089  S=835  E=834  
+J=1090  S=836  E=835  
+J=1091  S=837  E=836  
+J=1092  S=838  E=837  
+J=1093  S=839  E=838  
+J=1094  S=840  E=839  
+J=1095  S=1713 E=840  
+J=1096  S=842  E=841  
+J=1097  S=843  E=842  
+J=1098  S=844  E=843  
+J=1099  S=845  E=844  
+J=1100  S=846  E=845  
+J=1101  S=847  E=846  
+J=1102  S=848  E=847  
+J=1103  S=849  E=848  
+J=1104  S=1713 E=849  
+J=1105  S=851  E=850  
+J=1106  S=852  E=851  
+J=1107  S=853  E=852  
+J=1108  S=854  E=853  
+J=1109  S=855  E=854  
+J=1110  S=856  E=855  
+J=1111  S=857  E=856  
+J=1112  S=858  E=857  
+J=1113  S=859  E=858  
+J=1114  S=1713 E=859  
+J=1115  S=861  E=860  
+J=1116  S=862  E=861  
+J=1117  S=863  E=862  
+J=1118  S=864  E=863  
+J=1119  S=865  E=864  
+J=1120  S=866  E=865  
+J=1121  S=867  E=866  
+J=1122  S=868  E=867  
+J=1123  S=869  E=868  
+J=1124  S=1713 E=869  
+J=1125  S=871  E=870  
+J=1126  S=872  E=871  
+J=1127  S=873  E=872  
+J=1128  S=874  E=873  
+J=1129  S=875  E=874  
+J=1130  S=876  E=875  
+J=1131  S=877  E=876  
+J=1132  S=878  E=877  
+J=1133  S=1713 E=878  
+J=1134  S=880  E=879  
+J=1135  S=881  E=880  
+J=1136  S=882  E=881  
+J=1137  S=883  E=882  
+J=1138  S=884  E=883  
+J=1139  S=885  E=884  
+J=1140  S=1713 E=885  
+J=1141  S=887  E=886  
+J=1142  S=888  E=887  
+J=1143  S=889  E=888  
+J=1144  S=890  E=889  
+J=1145  S=891  E=890  
+J=1146  S=892  E=891  
+J=1147  S=893  E=892  
+J=1148  S=894  E=893  
+J=1149  S=895  E=894  
+J=1150  S=1713 E=895  
+J=1151  S=897  E=896  
+J=1152  S=898  E=897  
+J=1153  S=899  E=898  
+J=1154  S=900  E=899  
+J=1155  S=901  E=900  
+J=1156  S=902  E=901  
+J=1157  S=903  E=902  
+J=1158  S=904  E=903  
+J=1159  S=905  E=904  
+J=1160  S=1713 E=905  
+J=1161  S=907  E=906  
+J=1162  S=908  E=907  
+J=1163  S=909  E=908  
+J=1164  S=910  E=909  
+J=1165  S=911  E=910  
+J=1166  S=912  E=911  
+J=1167  S=913  E=912  
+J=1168  S=914  E=913  
+J=1169  S=915  E=914  
+J=1170  S=916  E=915  
+J=1171  S=1713 E=916  
+J=1172  S=918  E=917  
+J=1173  S=919  E=918  
+J=1174  S=920  E=919  
+J=1175  S=921  E=920  
+J=1176  S=922  E=921  
+J=1177  S=923  E=922  
+J=1178  S=924  E=923  
+J=1179  S=1713 E=924  
+J=1180  S=926  E=925  
+J=1181  S=927  E=926  
+J=1182  S=928  E=927  
+J=1183  S=929  E=928  
+J=1184  S=930  E=929  
+J=1185  S=931  E=930  
+J=1186  S=932  E=931  
+J=1187  S=933  E=932  
+J=1188  S=1713 E=933  
+J=1189  S=935  E=934  
+J=1190  S=936  E=935  
+J=1191  S=937  E=936  
+J=1192  S=938  E=937  
+J=1193  S=939  E=938  
+J=1194  S=940  E=939  
+J=1195  S=941  E=940  
+J=1196  S=942  E=941  
+J=1197  S=943  E=942  
+J=1198  S=1713 E=943  
+J=1199  S=945  E=944  
+J=1200  S=946  E=945  
+J=1201  S=947  E=946  
+J=1202  S=948  E=947  
+J=1203  S=949  E=948  
+J=1204  S=950  E=949  
+J=1205  S=951  E=950  
+J=1206  S=1713 E=951  
+J=1207  S=953  E=952  
+J=1208  S=954  E=953  
+J=1209  S=955  E=954  
+J=1210  S=956  E=955  
+J=1211  S=957  E=956  
+J=1212  S=958  E=957  
+J=1213  S=959  E=958  
+J=1214  S=1713 E=959  
+J=1215  S=961  E=960  
+J=1216  S=962  E=961  
+J=1217  S=963  E=962  
+J=1218  S=964  E=963  
+J=1219  S=965  E=964  
+J=1220  S=966  E=965  
+J=1221  S=967  E=966  
+J=1222  S=968  E=967  
+J=1223  S=969  E=968  
+J=1224  S=1713 E=969  
+J=1225  S=971  E=970  
+J=1226  S=972  E=971  
+J=1227  S=973  E=972  
+J=1228  S=974  E=973  
+J=1229  S=975  E=974  
+J=1230  S=1713 E=975  
+J=1231  S=977  E=976  
+J=1232  S=978  E=977  
+J=1233  S=979  E=978  
+J=1234  S=980  E=979  
+J=1235  S=981  E=980  
+J=1236  S=982  E=981  
+J=1237  S=983  E=982  
+J=1238  S=984  E=983  
+J=1239  S=1713 E=984  
+J=1240  S=986  E=985  
+J=1241  S=987  E=986  
+J=1242  S=988  E=987  
+J=1243  S=989  E=988  
+J=1244  S=990  E=989  
+J=1245  S=991  E=990  
+J=1246  S=992  E=991  
+J=1247  S=993  E=992  
+J=1248  S=994  E=993  
+J=1249  S=995  E=994  
+J=1250  S=996  E=995  
+J=1251  S=997  E=996  
+J=1252  S=998  E=997  
+J=1253  S=999  E=998  
+J=1254  S=1000 E=999  
+J=1255  S=1713 E=1000 
+J=1256  S=1002 E=1001 
+J=1257  S=1003 E=1002 
+J=1258  S=1004 E=1003 
+J=1259  S=1005 E=1004 
+J=1260  S=1006 E=1005 
+J=1261  S=1007 E=1006 
+J=1262  S=1713 E=1007 
+J=1263  S=1009 E=1008 
+J=1264  S=1010 E=1009 
+J=1265  S=1011 E=1010 
+J=1266  S=1012 E=1011 
+J=1267  S=1013 E=1012 
+J=1268  S=1014 E=1013 
+J=1269  S=1713 E=1014 
+J=1270  S=1016 E=1015 
+J=1271  S=1017 E=1016 
+J=1272  S=1018 E=1017 
+J=1273  S=1019 E=1018 
+J=1274  S=1020 E=1019 
+J=1275  S=1021 E=1020 
+J=1276  S=1022 E=1021 
+J=1277  S=1713 E=1022 
+J=1278  S=1024 E=1023 
+J=1279  S=1025 E=1024 
+J=1280  S=1026 E=1025 
+J=1281  S=1027 E=1026 
+J=1282  S=1028 E=1027 
+J=1283  S=1029 E=1028 
+J=1284  S=1030 E=1029 
+J=1285  S=1713 E=1030 
+J=1286  S=1032 E=1031 
+J=1287  S=1033 E=1032 
+J=1288  S=1034 E=1033 
+J=1289  S=1035 E=1034 
+J=1290  S=1036 E=1035 
+J=1291  S=1037 E=1036 
+J=1292  S=1038 E=1037 
+J=1293  S=1039 E=1038 
+J=1294  S=1040 E=1039 
+J=1295  S=1713 E=1040 
+J=1296  S=1042 E=1041 
+J=1297  S=1043 E=1042 
+J=1298  S=1044 E=1043 
+J=1299  S=1045 E=1044 
+J=1300  S=1046 E=1045 
+J=1301  S=1047 E=1046 
+J=1302  S=1048 E=1047 
+J=1303  S=1049 E=1048 
+J=1304  S=1050 E=1049 
+J=1305  S=1051 E=1050 
+J=1306  S=1052 E=1051 
+J=1307  S=1053 E=1052 
+J=1308  S=1054 E=1053 
+J=1309  S=1713 E=1054 
+J=1310  S=1056 E=1055 
+J=1311  S=1057 E=1056 
+J=1312  S=1058 E=1057 
+J=1313  S=1059 E=1058 
+J=1314  S=1060 E=1059 
+J=1315  S=1061 E=1060 
+J=1316  S=1062 E=1061 
+J=1317  S=1063 E=1062 
+J=1318  S=1713 E=1063 
+J=1319  S=1065 E=1064 
+J=1320  S=1066 E=1065 
+J=1321  S=1067 E=1066 
+J=1322  S=1068 E=1067 
+J=1323  S=1069 E=1068 
+J=1324  S=1070 E=1069 
+J=1325  S=1071 E=1070 
+J=1326  S=1713 E=1071 
+J=1327  S=1073 E=1072 
+J=1328  S=1074 E=1073 
+J=1329  S=1075 E=1074 
+J=1330  S=1076 E=1075 
+J=1331  S=1077 E=1076 
+J=1332  S=1078 E=1077 
+J=1333  S=1079 E=1078 
+J=1334  S=1080 E=1079 
+J=1335  S=1081 E=1080 
+J=1336  S=1082 E=1081 
+J=1337  S=1083 E=1082 
+J=1338  S=1713 E=1083 
+J=1339  S=1085 E=1084 
+J=1340  S=1086 E=1085 
+J=1341  S=1087 E=1086 
+J=1342  S=1088 E=1087 
+J=1343  S=1089 E=1088 
+J=1344  S=1090 E=1089 
+J=1345  S=1091 E=1090 
+J=1346  S=1092 E=1091 
+J=1347  S=1093 E=1092 
+J=1348  S=1094 E=1093 
+J=1349  S=1713 E=1094 
+J=1350  S=1096 E=1095 
+J=1351  S=1097 E=1096 
+J=1352  S=1098 E=1097 
+J=1353  S=1099 E=1098 
+J=1354  S=1100 E=1099 
+J=1355  S=1101 E=1100 
+J=1356  S=1102 E=1101 
+J=1357  S=1103 E=1102 
+J=1358  S=1104 E=1103 
+J=1359  S=1105 E=1104 
+J=1360  S=1713 E=1105 
+J=1361  S=1107 E=1106 
+J=1362  S=1108 E=1107 
+J=1363  S=1109 E=1108 
+J=1364  S=1110 E=1109 
+J=1365  S=1111 E=1110 
+J=1366  S=1112 E=1111 
+J=1367  S=1113 E=1112 
+J=1368  S=1114 E=1113 
+J=1369  S=1713 E=1114 
+J=1370  S=1116 E=1115 
+J=1371  S=1117 E=1116 
+J=1372  S=1118 E=1117 
+J=1373  S=1119 E=1118 
+J=1374  S=1120 E=1119 
+J=1375  S=1121 E=1120 
+J=1376  S=1122 E=1121 
+J=1377  S=1123 E=1122 
+J=1378  S=1124 E=1123 
+J=1379  S=1125 E=1124 
+J=1380  S=1126 E=1125 
+J=1381  S=1713 E=1126 
+J=1382  S=1128 E=1127 
+J=1383  S=1129 E=1128 
+J=1384  S=1130 E=1129 
+J=1385  S=1131 E=1130 
+J=1386  S=1132 E=1131 
+J=1387  S=1133 E=1132 
+J=1388  S=1134 E=1133 
+J=1389  S=1135 E=1134 
+J=1390  S=1136 E=1135 
+J=1391  S=1713 E=1136 
+J=1392  S=1138 E=1137 
+J=1393  S=1139 E=1138 
+J=1394  S=1140 E=1139 
+J=1395  S=1141 E=1140 
+J=1396  S=1142 E=1141 
+J=1397  S=1143 E=1142 
+J=1398  S=1144 E=1143 
+J=1399  S=1145 E=1144 
+J=1400  S=1713 E=1145 
+J=1401  S=1147 E=1146 
+J=1402  S=1148 E=1147 
+J=1403  S=1149 E=1148 
+J=1404  S=1150 E=1149 
+J=1405  S=1151 E=1150 
+J=1406  S=1152 E=1151 
+J=1407  S=1153 E=1152 
+J=1408  S=1154 E=1153 
+J=1409  S=1155 E=1154 
+J=1410  S=1713 E=1155 
+J=1411  S=1157 E=1156 
+J=1412  S=1158 E=1157 
+J=1413  S=1159 E=1158 
+J=1414  S=1160 E=1159 
+J=1415  S=1161 E=1160 
+J=1416  S=1162 E=1161 
+J=1417  S=1163 E=1162 
+J=1418  S=1164 E=1163 
+J=1419  S=1165 E=1164 
+J=1420  S=1166 E=1165 
+J=1421  S=1713 E=1166 
+J=1422  S=1168 E=1167 
+J=1423  S=1169 E=1168 
+J=1424  S=1170 E=1169 
+J=1425  S=1171 E=1170 
+J=1426  S=1172 E=1171 
+J=1427  S=1173 E=1172 
+J=1428  S=1713 E=1173 
+J=1429  S=1175 E=1174 
+J=1430  S=1176 E=1175 
+J=1431  S=1177 E=1176 
+J=1432  S=1178 E=1177 
+J=1433  S=1179 E=1178 
+J=1434  S=1180 E=1179 
+J=1435  S=1181 E=1180 
+J=1436  S=1182 E=1181 
+J=1437  S=1713 E=1182 
+J=1438  S=1184 E=1183 
+J=1439  S=1185 E=1184 
+J=1440  S=1186 E=1185 
+J=1441  S=1187 E=1186 
+J=1442  S=1188 E=1187 
+J=1443  S=1189 E=1188 
+J=1444  S=1190 E=1189 
+J=1445  S=1191 E=1190 
+J=1446  S=1192 E=1191 
+J=1447  S=1713 E=1192 
+J=1448  S=1194 E=1193 
+J=1449  S=1195 E=1194 
+J=1450  S=1196 E=1195 
+J=1451  S=1197 E=1196 
+J=1452  S=1198 E=1197 
+J=1453  S=1199 E=1198 
+J=1454  S=1200 E=1199 
+J=1455  S=1201 E=1200 
+J=1456  S=1202 E=1201 
+J=1457  S=1203 E=1202 
+J=1458  S=1204 E=1203 
+J=1459  S=1713 E=1204 
+J=1460  S=1206 E=1205 
+J=1461  S=1207 E=1206 
+J=1462  S=1208 E=1207 
+J=1463  S=1209 E=1208 
+J=1464  S=1210 E=1209 
+J=1465  S=1211 E=1210 
+J=1466  S=1713 E=1211 
+J=1467  S=1213 E=1212 
+J=1468  S=1214 E=1213 
+J=1469  S=1215 E=1214 
+J=1470  S=1216 E=1215 
+J=1471  S=1217 E=1216 
+J=1472  S=1218 E=1217 
+J=1473  S=1219 E=1218 
+J=1474  S=1220 E=1219 
+J=1475  S=1713 E=1220 
+J=1476  S=1222 E=1221 
+J=1477  S=1223 E=1222 
+J=1478  S=1224 E=1223 
+J=1479  S=1225 E=1224 
+J=1480  S=1226 E=1225 
+J=1481  S=1227 E=1226 
+J=1482  S=1713 E=1227 
+J=1483  S=1229 E=1228 
+J=1484  S=1230 E=1229 
+J=1485  S=1231 E=1230 
+J=1486  S=1232 E=1231 
+J=1487  S=1233 E=1232 
+J=1488  S=1234 E=1233 
+J=1489  S=1235 E=1234 
+J=1490  S=1713 E=1235 
+J=1491  S=1237 E=1236 
+J=1492  S=1238 E=1237 
+J=1493  S=1239 E=1238 
+J=1494  S=1240 E=1239 
+J=1495  S=1241 E=1240 
+J=1496  S=1242 E=1241 
+J=1497  S=1243 E=1242 
+J=1498  S=1244 E=1243 
+J=1499  S=1245 E=1244 
+J=1500  S=1713 E=1245 
+J=1501  S=1247 E=1246 
+J=1502  S=1248 E=1247 
+J=1503  S=1249 E=1248 
+J=1504  S=1250 E=1249 
+J=1505  S=1713 E=1250 
+J=1506  S=1252 E=1251 
+J=1507  S=1713 E=1252 
+J=1508  S=1254 E=1253 
+J=1509  S=1255 E=1254 
+J=1510  S=1713 E=1255 
+J=1511  S=1257 E=1256 
+J=1512  S=1258 E=1257 
+J=1513  S=1259 E=1258 
+J=1514  S=1713 E=1259 
+J=1515  S=1261 E=1260 
+J=1516  S=1262 E=1261 
+J=1517  S=1263 E=1262 
+J=1518  S=1713 E=1263 
+J=1519  S=1265 E=1264 
+J=1520  S=1266 E=1265 
+J=1521  S=1267 E=1266 
+J=1522  S=1268 E=1267 
+J=1523  S=1713 E=1268 
+J=1524  S=1270 E=1269 
+J=1525  S=1271 E=1270 
+J=1526  S=1272 E=1271 
+J=1527  S=1273 E=1272 
+J=1528  S=1274 E=1273 
+J=1529  S=1713 E=1274 
+J=1530  S=1276 E=1275 
+J=1531  S=1277 E=1276 
+J=1532  S=1278 E=1277 
+J=1533  S=1713 E=1278 
+J=1534  S=1280 E=1279 
+J=1535  S=1281 E=1280 
+J=1536  S=1713 E=1281 
+J=1537  S=1283 E=1282 
+J=1538  S=1284 E=1283 
+J=1539  S=1713 E=1284 
+J=1540  S=1286 E=1285 
+J=1541  S=1287 E=1286 
+J=1542  S=1288 E=1287 
+J=1543  S=1289 E=1288 
+J=1544  S=1713 E=1289 
+J=1545  S=1291 E=1290 
+J=1546  S=1292 E=1291 
+J=1547  S=1713 E=1292 
+J=1548  S=1294 E=1293 
+J=1549  S=1295 E=1294 
+J=1550  S=1296 E=1295 
+J=1551  S=1713 E=1296 
+J=1552  S=1298 E=1297 
+J=1553  S=1299 E=1298 
+J=1554  S=1300 E=1299 
+J=1555  S=1301 E=1300 
+J=1556  S=1302 E=1301 
+J=1557  S=1713 E=1302 
+J=1558  S=1304 E=1303 
+J=1559  S=1305 E=1304 
+J=1560  S=1306 E=1305 
+J=1561  S=1307 E=1306 
+J=1562  S=1308 E=1307 
+J=1563  S=1309 E=1308 
+J=1564  S=1713 E=1309 
+J=1565  S=1311 E=1310 
+J=1566  S=1312 E=1311 
+J=1567  S=1313 E=1312 
+J=1568  S=1314 E=1313 
+J=1569  S=1315 E=1314 
+J=1570  S=1713 E=1315 
+J=1571  S=1317 E=1316 
+J=1572  S=1318 E=1317 
+J=1573  S=1319 E=1318 
+J=1574  S=1320 E=1319 
+J=1575  S=1713 E=1320 
+J=1576  S=1322 E=1321 
+J=1577  S=1323 E=1322 
+J=1578  S=1713 E=1323 
+J=1579  S=1325 E=1324 
+J=1580  S=1326 E=1325 
+J=1581  S=1327 E=1326 
+J=1582  S=1328 E=1327 
+J=1583  S=1329 E=1328 
+J=1584  S=1330 E=1329 
+J=1585  S=1331 E=1330 
+J=1586  S=1332 E=1331 
+J=1587  S=1713 E=1332 
+J=1588  S=1334 E=1333 
+J=1589  S=1335 E=1334 
+J=1590  S=1336 E=1335 
+J=1591  S=1713 E=1336 
+J=1592  S=1338 E=1337 
+J=1593  S=1339 E=1338 
+J=1594  S=1340 E=1339 
+J=1595  S=1341 E=1340 
+J=1596  S=1713 E=1341 
+J=1597  S=1343 E=1342 
+J=1598  S=1344 E=1343 
+J=1599  S=1345 E=1344 
+J=1600  S=1346 E=1345 
+J=1601  S=1347 E=1346 
+J=1602  S=1713 E=1347 
+J=1603  S=1349 E=1348 
+J=1604  S=1350 E=1349 
+J=1605  S=1713 E=1350 
+J=1606  S=1352 E=1351 
+J=1607  S=1713 E=1352 
+J=1608  S=1354 E=1353 
+J=1609  S=1355 E=1354 
+J=1610  S=1713 E=1355 
+J=1611  S=1357 E=1356 
+J=1612  S=1358 E=1357 
+J=1613  S=1359 E=1358 
+J=1614  S=1713 E=1359 
+J=1615  S=1361 E=1360 
+J=1616  S=1362 E=1361 
+J=1617  S=1363 E=1362 
+J=1618  S=1364 E=1363 
+J=1619  S=1365 E=1364 
+J=1620  S=1366 E=1365 
+J=1621  S=1367 E=1366 
+J=1622  S=1368 E=1367 
+J=1623  S=1369 E=1368 
+J=1624  S=1370 E=1369 
+J=1625  S=1713 E=1370 
+J=1626  S=1372 E=1371 
+J=1627  S=1373 E=1372 
+J=1628  S=1374 E=1373 
+J=1629  S=1713 E=1374 
+J=1630  S=1376 E=1375 
+J=1631  S=1377 E=1376 
+J=1632  S=1378 E=1377 
+J=1633  S=1379 E=1378 
+J=1634  S=1380 E=1379 
+J=1635  S=1381 E=1380 
+J=1636  S=1382 E=1381 
+J=1637  S=1383 E=1382 
+J=1638  S=1384 E=1383 
+J=1639  S=1713 E=1384 
+J=1640  S=1386 E=1385 
+J=1641  S=1387 E=1386 
+J=1642  S=1388 E=1387 
+J=1643  S=1389 E=1388 
+J=1644  S=1713 E=1389 
+J=1645  S=1391 E=1390 
+J=1646  S=1392 E=1391 
+J=1647  S=1393 E=1392 
+J=1648  S=1394 E=1393 
+J=1649  S=1395 E=1394 
+J=1650  S=1713 E=1395 
+J=1651  S=1397 E=1396 
+J=1652  S=1398 E=1397 
+J=1653  S=1399 E=1398 
+J=1654  S=1400 E=1399 
+J=1655  S=1713 E=1400 
+J=1656  S=1402 E=1401 
+J=1657  S=1403 E=1402 
+J=1658  S=1404 E=1403 
+J=1659  S=1405 E=1404 
+J=1660  S=1713 E=1405 
+J=1661  S=1407 E=1406 
+J=1662  S=1408 E=1407 
+J=1663  S=1409 E=1408 
+J=1664  S=1410 E=1409 
+J=1665  S=1713 E=1410 
+J=1666  S=1412 E=1411 
+J=1667  S=1413 E=1412 
+J=1668  S=1414 E=1413 
+J=1669  S=1415 E=1414 
+J=1670  S=1416 E=1415 
+J=1671  S=1713 E=1416 
+J=1672  S=1418 E=1417 
+J=1673  S=1419 E=1418 
+J=1674  S=1420 E=1419 
+J=1675  S=1421 E=1420 
+J=1676  S=1422 E=1421 
+J=1677  S=1713 E=1422 
+J=1678  S=1424 E=1423 
+J=1679  S=1425 E=1424 
+J=1680  S=1426 E=1425 
+J=1681  S=1427 E=1426 
+J=1682  S=1428 E=1427 
+J=1683  S=1429 E=1428 
+J=1684  S=1713 E=1429 
+J=1685  S=1431 E=1430 
+J=1686  S=1432 E=1431 
+J=1687  S=1433 E=1432 
+J=1688  S=1434 E=1433 
+J=1689  S=1713 E=1434 
+J=1690  S=1436 E=1435 
+J=1691  S=1437 E=1436 
+J=1692  S=1438 E=1437 
+J=1693  S=1439 E=1438 
+J=1694  S=1440 E=1439 
+J=1695  S=1713 E=1440 
+J=1696  S=1442 E=1441 
+J=1697  S=1443 E=1442 
+J=1698  S=1444 E=1443 
+J=1699  S=1445 E=1444 
+J=1700  S=1446 E=1445 
+J=1701  S=1447 E=1446 
+J=1702  S=1713 E=1447 
+J=1703  S=1449 E=1448 
+J=1704  S=1450 E=1449 
+J=1705  S=1451 E=1450 
+J=1706  S=1452 E=1451 
+J=1707  S=1453 E=1452 
+J=1708  S=1713 E=1453 
+J=1709  S=1455 E=1454 
+J=1710  S=1456 E=1455 
+J=1711  S=1457 E=1456 
+J=1712  S=1713 E=1457 
+J=1713  S=1459 E=1458 
+J=1714  S=1460 E=1459 
+J=1715  S=1461 E=1460 
+J=1716  S=1462 E=1461 
+J=1717  S=1463 E=1462 
+J=1718  S=1713 E=1463 
+J=1719  S=1465 E=1464 
+J=1720  S=1466 E=1465 
+J=1721  S=1467 E=1466 
+J=1722  S=1468 E=1467 
+J=1723  S=1469 E=1468 
+J=1724  S=1713 E=1469 
+J=1725  S=1471 E=1470 
+J=1726  S=1472 E=1471 
+J=1727  S=1473 E=1472 
+J=1728  S=1474 E=1473 
+J=1729  S=1475 E=1474 
+J=1730  S=1476 E=1475 
+J=1731  S=1713 E=1476 
+J=1732  S=1478 E=1477 
+J=1733  S=1479 E=1478 
+J=1734  S=1713 E=1479 
+J=1735  S=1481 E=1480 
+J=1736  S=1482 E=1481 
+J=1737  S=1483 E=1482 
+J=1738  S=1484 E=1483 
+J=1739  S=1713 E=1484 
+J=1740  S=1486 E=1485 
+J=1741  S=1487 E=1486 
+J=1742  S=1488 E=1487 
+J=1743  S=1489 E=1488 
+J=1744  S=1713 E=1489 
+J=1745  S=1491 E=1490 
+J=1746  S=1492 E=1491 
+J=1747  S=1493 E=1492 
+J=1748  S=1494 E=1493 
+J=1749  S=1713 E=1494 
+J=1750  S=1496 E=1495 
+J=1751  S=1497 E=1496 
+J=1752  S=1498 E=1497 
+J=1753  S=1499 E=1498 
+J=1754  S=1500 E=1499 
+J=1755  S=1501 E=1500 
+J=1756  S=1713 E=1501 
+J=1757  S=1503 E=1502 
+J=1758  S=1504 E=1503 
+J=1759  S=1505 E=1504 
+J=1760  S=1713 E=1505 
+J=1761  S=1507 E=1506 
+J=1762  S=1508 E=1507 
+J=1763  S=1713 E=1508 
+J=1764  S=1510 E=1509 
+J=1765  S=1511 E=1510 
+J=1766  S=1512 E=1511 
+J=1767  S=1513 E=1512 
+J=1768  S=1514 E=1513 
+J=1769  S=1713 E=1514 
+J=1770  S=1516 E=1515 
+J=1771  S=1517 E=1516 
+J=1772  S=1518 E=1517 
+J=1773  S=1519 E=1518 
+J=1774  S=1520 E=1519 
+J=1775  S=1713 E=1520 
+J=1776  S=1522 E=1521 
+J=1777  S=1523 E=1522 
+J=1778  S=1524 E=1523 
+J=1779  S=1713 E=1524 
+J=1780  S=1526 E=1525 
+J=1781  S=1527 E=1526 
+J=1782  S=1528 E=1527 
+J=1783  S=1529 E=1528 
+J=1784  S=1530 E=1529 
+J=1785  S=1713 E=1530 
+J=1786  S=1532 E=1531 
+J=1787  S=1533 E=1532 
+J=1788  S=1534 E=1533 
+J=1789  S=1535 E=1534 
+J=1790  S=1536 E=1535 
+J=1791  S=1537 E=1536 
+J=1792  S=1713 E=1537 
+J=1793  S=1539 E=1538 
+J=1794  S=1540 E=1539 
+J=1795  S=1541 E=1540 
+J=1796  S=1542 E=1541 
+J=1797  S=1713 E=1542 
+J=1798  S=1544 E=1543 
+J=1799  S=1545 E=1544 
+J=1800  S=1546 E=1545 
+J=1801  S=1547 E=1546 
+J=1802  S=1548 E=1547 
+J=1803  S=1549 E=1548 
+J=1804  S=1550 E=1549 
+J=1805  S=1713 E=1550 
+J=1806  S=1552 E=1551 
+J=1807  S=1553 E=1552 
+J=1808  S=1554 E=1553 
+J=1809  S=1555 E=1554 
+J=1810  S=1556 E=1555 
+J=1811  S=1713 E=1556 
+J=1812  S=1558 E=1557 
+J=1813  S=1559 E=1558 
+J=1814  S=1560 E=1559 
+J=1815  S=1561 E=1560 
+J=1816  S=1562 E=1561 
+J=1817  S=1713 E=1562 
+J=1818  S=1564 E=1563 
+J=1819  S=1565 E=1564 
+J=1820  S=1566 E=1565 
+J=1821  S=1567 E=1566 
+J=1822  S=1568 E=1567 
+J=1823  S=1569 E=1568 
+J=1824  S=1570 E=1569 
+J=1825  S=1571 E=1570 
+J=1826  S=1713 E=1571 
+J=1827  S=1573 E=1572 
+J=1828  S=1574 E=1573 
+J=1829  S=1575 E=1574 
+J=1830  S=1713 E=1575 
+J=1831  S=1577 E=1576 
+J=1832  S=1578 E=1577 
+J=1833  S=1579 E=1578 
+J=1834  S=1580 E=1579 
+J=1835  S=1713 E=1580 
+J=1836  S=1582 E=1581 
+J=1837  S=1583 E=1582 
+J=1838  S=1584 E=1583 
+J=1839  S=1585 E=1584 
+J=1840  S=1713 E=1585 
+J=1841  S=1587 E=1586 
+J=1842  S=1588 E=1587 
+J=1843  S=1589 E=1588 
+J=1844  S=1590 E=1589 
+J=1845  S=1591 E=1590 
+J=1846  S=1713 E=1591 
+J=1847  S=1593 E=1592 
+J=1848  S=1594 E=1593 
+J=1849  S=1595 E=1594 
+J=1850  S=1596 E=1595 
+J=1851  S=1597 E=1596 
+J=1852  S=1713 E=1597 
+J=1853  S=1599 E=1598 
+J=1854  S=1600 E=1599 
+J=1855  S=1601 E=1600 
+J=1856  S=1602 E=1601 
+J=1857  S=1603 E=1602 
+J=1858  S=1713 E=1603 
+J=1859  S=1605 E=1604 
+J=1860  S=1606 E=1605 
+J=1861  S=1607 E=1606 
+J=1862  S=1608 E=1607 
+J=1863  S=1609 E=1608 
+J=1864  S=1610 E=1609 
+J=1865  S=1713 E=1610 
+J=1866  S=1612 E=1611 
+J=1867  S=1613 E=1612 
+J=1868  S=1614 E=1613 
+J=1869  S=1615 E=1614 
+J=1870  S=1616 E=1615 
+J=1871  S=1617 E=1616 
+J=1872  S=1618 E=1617 
+J=1873  S=1713 E=1618 
+J=1874  S=1620 E=1619 
+J=1875  S=1621 E=1620 
+J=1876  S=1622 E=1621 
+J=1877  S=1623 E=1622 
+J=1878  S=1713 E=1623 
+J=1879  S=1625 E=1624 
+J=1880  S=1626 E=1625 
+J=1881  S=1627 E=1626 
+J=1882  S=1628 E=1627 
+J=1883  S=1629 E=1628 
+J=1884  S=1630 E=1629 
+J=1885  S=1631 E=1630 
+J=1886  S=1713 E=1631 
+J=1887  S=1633 E=1632 
+J=1888  S=1634 E=1633 
+J=1889  S=1635 E=1634 
+J=1890  S=1636 E=1635 
+J=1891  S=1637 E=1636 
+J=1892  S=1638 E=1637 
+J=1893  S=1713 E=1638 
+J=1894  S=1640 E=1639 
+J=1895  S=1641 E=1640 
+J=1896  S=1642 E=1641 
+J=1897  S=1643 E=1642 
+J=1898  S=1713 E=1643 
+J=1899  S=1645 E=1644 
+J=1900  S=1646 E=1645 
+J=1901  S=1647 E=1646 
+J=1902  S=1713 E=1647 
+J=1903  S=1649 E=1648 
+J=1904  S=1650 E=1649 
+J=1905  S=1651 E=1650 
+J=1906  S=1713 E=1651 
+J=1907  S=1653 E=1652 
+J=1908  S=1654 E=1653 
+J=1909  S=1655 E=1654 
+J=1910  S=1713 E=1655 
+J=1911  S=1657 E=1656 
+J=1912  S=1658 E=1657 
+J=1913  S=1659 E=1658 
+J=1914  S=1660 E=1659 
+J=1915  S=1713 E=1660 
+J=1916  S=1662 E=1661 
+J=1917  S=1663 E=1662 
+J=1918  S=1664 E=1663 
+J=1919  S=1665 E=1664 
+J=1920  S=1713 E=1665 
+J=1921  S=1667 E=1666 
+J=1922  S=1668 E=1667 
+J=1923  S=1713 E=1668 
+J=1924  S=1670 E=1669 
+J=1925  S=1671 E=1670 
+J=1926  S=1713 E=1671 
+J=1927  S=1673 E=1672 
+J=1928  S=1674 E=1673 
+J=1929  S=1675 E=1674 
+J=1930  S=1676 E=1675 
+J=1931  S=1713 E=1676 
+J=1932  S=1678 E=1677 
+J=1933  S=1713 E=1678 
+J=1934  S=1680 E=1679 
+J=1935  S=1713 E=1680 
+J=1936  S=1713 E=1681 
+J=1937  S=1683 E=1682 
+J=1938  S=1684 E=1683 
+J=1939  S=1685 E=1684 
+J=1940  S=1713 E=1685 
+J=1941  S=1687 E=1686 
+J=1942  S=1688 E=1687 
+J=1943  S=1689 E=1688 
+J=1944  S=1713 E=1689 
+J=1945  S=1691 E=1690 
+J=1946  S=1692 E=1691 
+J=1947  S=1713 E=1692 
+J=1948  S=1694 E=1693 
+J=1949  S=1695 E=1694 
+J=1950  S=1696 E=1695 
+J=1951  S=1697 E=1696 
+J=1952  S=1713 E=1697 
+J=1953  S=1699 E=1698 
+J=1954  S=1700 E=1699 
+J=1955  S=1713 E=1700 
+J=1956  S=1702 E=1701 
+J=1957  S=1703 E=1702 
+J=1958  S=1713 E=1703 
+J=1959  S=1705 E=1704 
+J=1960  S=1706 E=1705 
+J=1961  S=1713 E=1706 
+J=1962  S=1708 E=1707 
+J=1963  S=1713 E=1708 
+J=1964  S=1710 E=1709 
+J=1965  S=1711 E=1710 
+J=1966  S=1712 E=1711 
+J=1967  S=1713 E=1712 
+J=1968  S=1715 E=1713 
+J=1969  S=0    E=1714 
