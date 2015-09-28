@@ -1,4 +1,4 @@
-function [config] = get_breakfast_demo_config(path_root, path_input, path_gen, path_out)
+function [config] = get_breakfast_demo_config(path_root, path_input, path_gen, path_out, use_split)
 %GET_BREAKFAST_DEMO_CONFIG loads frame representations and related segmentations and returns then in unit form  
 % Input:
 % path_root - path to the root folder
@@ -25,16 +25,10 @@ function [config] = get_breakfast_demo_config(path_root, path_input, path_gen, p
 % You should have received a copy of the GNU General Public License
 % along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-
-% for the first split (in folder ... \s1)
-use_split = 1;
-% if you want to run overall splits please don't forget to adapt the
-% train/test pattern
-
-% regular expression for test data (first split)
-config.pattern_test = '(P03_|P04_|P05_|P06_|P07_|P08_|P09_|P10_|P11_|P12_|P13_|P14_|P15_)';
-% regular expression for training data (second split)
-config.pattern_train = '(P16_|P17_|P18_|P19_|P20_|P21_|P22_|P23_|P24_|P25_|P26_|P27_|P28_|P29_|P30_|P31_|P32_|P33_|P34_|P35_|P36_|P37_|P38_|P39_|P40_|P41_|P42_|P43_|P44_|P45_|P46_|P47_|P48_|P49_|P50_|P51_|P52_|P53_|P54_)'
+% % regular expression for test data (first split)
+% config.pattern_test = '(P03_|P04_|P05_|P06_|P07_|P08_|P09_|P10_|P11_|P12_|P13_|P14_|P15_)';
+% % regular expression for training data (second split)
+% config.pattern_train = '(P16_|P17_|P18_|P19_|P20_|P21_|P22_|P23_|P24_|P25_|P26_|P27_|P28_|P29_|P30_|P31_|P32_|P33_|P34_|P35_|P36_|P37_|P38_|P39_|P40_|P41_|P42_|P43_|P44_|P45_|P46_|P47_|P48_|P49_|P50_|P51_|P52_|P53_|P54_)'
 
 % feature file ending 
 config.file_ending = '.txt'
@@ -104,7 +98,9 @@ config.unique_action_labels = {...
 
 %% Parameteres
 %feature normalization
-config.normalization = 'std_frame';
+config.normalization = 'std_dim';
+% config.normalization = 'std_frame';
+% config.normalization = 'none';
 config.noSIL = '';
 
 % output file names:

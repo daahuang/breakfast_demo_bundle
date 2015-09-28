@@ -1,7 +1,11 @@
-use_split = 1;
-use_grammar = 1;
-myroot = '/home/deanh/Documents/MATLAB/Breakfast_dataset';
-feature_str = 'hist_dt_l2pn_c64';
+function [ res_all ] = run_breakfast_func( params )
+%RUN_BREAKFAST_FUNC Summary of this function goes here
+%   Detailed explanation goes here
+
+use_split = params.split;
+use_grammar = params.grammar;
+myroot = params.root;
+feature_str = params.fea_str;
 
 %%
 path_bundle = fullfile(myroot, 'demo_bundle');
@@ -113,4 +117,6 @@ vis_on = 0;
 
 delete('./tmp/*.lab');
 delete('./label/*.*');
+
+end
 

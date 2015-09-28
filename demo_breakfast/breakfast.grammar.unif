@@ -1,0 +1,52 @@
+$UNIT = take_bowl | 
+	pour_cereals |
+	pour_milk  |
+	stir_cereals  |
+	take_cup  |
+	pour_coffee  |
+	pour_sugar  | 
+	spoon_sugar  |
+	stir_coffee  |
+	pour_oil  |
+	crack_egg  |
+ 	fry_egg  |
+	put_egg2plate  |
+	take_plate  |
+	add_saltnpepper  | 
+	take_eggs  |
+	butter_pan  |
+	cut_orange  |
+	take_squeezer  | 
+	squeeze_orange  | 
+	pour_juice  |
+	take_glass  | 
+	take_knife  | 
+	spoon_powder  | 
+	stir_milk  | 
+ 	spoon_flour  | 
+	stir_dough  | 
+	pour_dough2pan  | 
+	fry_pancake  | 
+	put_pancake2plate  | 
+	pour_flour  | 
+	cut_fruit  | 
+	put_fruit2bowl  | 
+	peel_fruit  | 
+	stir_fruit  | 
+	cut_bun  | 
+	take_butter  | 
+	smear_butter  | 
+	take_topping  | 
+	put_toppingOnTop  | 
+	put_bunTogether  | 
+	stir_egg  | 
+	pour_egg2pan  | 
+	stirfry_egg  | 
+	add_teabag  | 
+	pour_water  | 
+	stir_tea  ;
+  
+
+
+ ( SIL  < $UNIT >  SIL ) 
+
